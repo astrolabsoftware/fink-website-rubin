@@ -12,6 +12,9 @@ main:
 - name: Publications
   url: /papers/
   weight: 30
+- name: Joining
+  url: /joining/
+  weight: 40
 - name: About
   url: /about/
-  weight: 40
+  weight: 50
