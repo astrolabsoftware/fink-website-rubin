@@ -1,7 +1,7 @@
 ---
 date: 2021-12-17
 title: Infrastructures in Fink
-cardimage: architecture.png
+cardimage: infrastructure.png
 ---
 
 Let's take the opportunity of the bad turn of recent events to talk and learn a bit more on the infrastructure in place for Fink.
