@@ -2,8 +2,9 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://JulienPeloton.github.io/fink-website-rubin"
-title: fink-website-rubin
+baseURL: "https://fink-broker.org"
+title: Fink broker
+favicon: /images/Fink_SecondaryLogo_WEB.png
 
 ############################
 ## MISC
@@ -13,3 +14,45 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
+
+params:
+  includeBootstrapJs: true
+  showActiveNav: true
+  containerMaxWidth: 1200px
+  dateFormat: Jan 2, 2006
+  homeText: 
+  footerText:
+  hideFooter: true
+  katex: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+

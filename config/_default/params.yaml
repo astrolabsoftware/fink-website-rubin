@@ -3,68 +3,28 @@
 ############################
 
 author:
-  name: JulienPeloton
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  name: 
+  image: Fink_PrimaryLogo_WEB.png
+  greeting: 
+  icon: 
 
 ############################
 ## Links
 ############################
 
+# <icon image name>-<hover display>
 links:
-  - github: https://github.com/JulienPeloton/fink-website-rubin
-  - link: https://github.com/JulienPeloton/fink-website-rubin#readme
-  # - website: 
-  # - x-twitter: 
-  # - mastodon: 
-  # - linkedin: 
-  # - instagram: 
-  # - reddit: 
-  # - telegram: 
-  # - whatsapp: 
-  # - signal: 
-  # - codepen: 
-  # - dev: 
-  # - email: 
-  # - discord: 
-  # - orcid: 
-  # - slack: 
-  # - stack-overflow: 
-  # - twitch: 
-  # - patreon: 
-  # - soundcloud: 
-  # - dribbble: 
-  # - stack-exchange: 
-  # - tiktok: 
-  # - youtube: 
-  # - keybase: 
-  # - flickr: 
-  # - tumblr: 
-  # - kickstarter: 
-  # - snapchat:
-  # - bluesky: 
-  # - bitbucket: 
-  # - bandcamp: 
-  # - etsy: 
-  # - spotify: 
-  # - pinterest: 
-  # - strava: 
-  # - untappd: 
-  # - skype: 
-  # - medium: 
-  # - foursquare: 
-  # - apple: 
-  # - amazon:
-  # - google:
-  # - paypal:
-  # - windows:
+  - website-Science Portal: https://fink-portal.org
+  - link-Documentation: https://fink-broker.readthedocs.io/en/latest
+  - github-Github: https://github.com/astrolabsoftware
+  - linkedin-Linkedin: https://www.linkedin.com/in/fink-broker-72b92134b/ 
+  - email-toto: mailto:contact@fink-broker.org 
+
 
 ###############################
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: fink-website-rubin
-description: "Site build with Qubt & Hugo"
-images:
-  - thumbnail.png
+title: Fink broker
+description: "Fink Broker collaboration website"
+image: Fink_PrimaryLogo_WEB.png
