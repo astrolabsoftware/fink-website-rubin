@@ -1,5 +1,6 @@
 ---
 title: Publications
+date: 2025-04-02
 permalink: /papers.html
 ---
 
