@@ -1,7 +1,7 @@
 ---
 date: "2024-05-27"
 title: Fink Brazil
-cardimage: finkbr.png
+cardimage: Poster_online_version.png
 ---
 
 The Fink Brazil workshop took place at CBPF, Rio de Janeiro, from 6 to 10 June 2024.
