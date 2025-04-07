@@ -1,7 +1,7 @@
 ---
 date: 2021-12-02
 title: Fink data statistics
-cardimage: 1-stat.png
+cardimage: fink_stats.png
 ---
 
 Check out the new page about Fink processed data statistics on the Science Portal: heatmap, daily statistics, timelines, and more! These statistics are updated once a day, after the ZTF observing night.
