@@ -12,9 +12,12 @@ main:
 - name: Publications
   url: /papers/
   weight: 30
-- name: Joining
-  url: /joining/
+- name: Team
+  url: /members/
   weight: 40
+- name: Join us
+  url: /joining/
+  weight: 50
 - name: About
   url: /about/
-  weight: 50
+  weight: 60
