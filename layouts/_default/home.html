@@ -6,7 +6,7 @@
       {{ $name := .Site.Params.Author.name }}
       {{ $icon := .Site.Params.Author.icon }}
       {{ with $image }}
-        {{ $image = $image.Filter (images.Process "resize 512x319 Lanczos q100 webp" ) }}
+        {{ $image = $image.Filter (images.Process "resize 412x319 Lanczos q100 webp" ) }}
         <div class="relative w-full">
           <img class="mb-1 h-full w-full" alt="{{ $name | default "Author" }}" src="{{ $image.RelPermalink }}" />
           {{ with $icon }}
