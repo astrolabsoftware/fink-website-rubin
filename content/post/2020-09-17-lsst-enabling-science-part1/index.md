@@ -1,7 +1,7 @@
 ---
 date: 2020-09-17
 title:  LSST enabling science 2020 broker workshop
-cardimage: lsstc_online_workshop.png
+cardimage: lsst-worshop.jpeg
 ---
 
 To enable new science with the LSST alert stream, brokers are developing a new layer in the time domain ecosystem. 

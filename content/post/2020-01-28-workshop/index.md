@@ -3,7 +3,7 @@ title: First Fink Workshop @ IJCLab
 date: "2020-01-28"
 summary:
 subtitle:
-cardimage: ijclab.png
+cardimage: ijclab.jpeg
 featureimage: 
 ---
 
