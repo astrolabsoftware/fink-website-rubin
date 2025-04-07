@@ -1,7 +1,7 @@
 ---
 date: 2020-09-23
 title:  Fink white paper
-cardimage: fink-paper.jpeg
+cardimage: fink-paper.png
 ---
 
 After a year of activities, the Fink team is proud to release its first paper! The team made of researchers and engineers worked restlessly to make Fink comes true. Congratulations to all!
