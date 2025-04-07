@@ -1,7 +1,7 @@
 ---
 date: 2020-11-11
 title:  Fink Science Portal (beta)
-cardimage: background.png
+cardimage: portal_v0.png
 ---
 
 The Fink development team is happy to announce the deployment of the Fink Science Portal! 
