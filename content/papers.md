@@ -35,18 +35,18 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2024
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2412.05061" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2412.05061" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://cds.cern.ch/record/2884741" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Moriond VHEPU&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Search for Orphan Gamma-Ray Burst Afterglows with the Vera C. Rubin Observatory and the alert broker Fink</b>,
     <i>Marina Masson, Johan Bregeon</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_01039.pdf" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=CHEP2023&color=blue&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_01039.pdf" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=CHEP2023&color=blue&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b>Multidatabase, the Future of the data storage in Particle Physics and Astronomy</b>, <i>Julius Hrivnác, Julien Peloton</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2404.08798" target="_blank"> <img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a> <a href="https://doi.org/10.1051/0004-6361/202450370" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2404.08798" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a> <a href="https://doi.org/10.1051/0004-6361/202450370" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Transient Classifiers for Fink: Benchmarks for LSST</b>,
     <i>B.M.O. Fraga, C.R. Bom, A. Santos, E. Russeil, M. Leoni, J. Peloton, E.E.O. Ishida, A. Möller, S. Blondin</i>
 </div>
@@ -136,12 +136,12 @@ List of publications from the Fink collaboration and the larger astronomy commun
 
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2404.18165" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2404.18165" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1051/0004-6361/202450535" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>ELEPHANT: ExtragaLactic alErt Pipeline for Hostless AstroNomical Transients,</b> <i> P. J. Pessi et al.</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2308.12806" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2308.12806" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1093/mnras/stae1238" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=MNRAS&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Redback: A Bayesian inference software package for electromagnetic transients,</b><i> Nikhil Sarin et al.</i>
 </div>
 
