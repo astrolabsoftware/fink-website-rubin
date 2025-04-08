@@ -1,15 +1,13 @@
 ---
 title: Fink hostless module
 date: 2025-04-08
-cardimage: 
+cardimage: hostless.png
 ---
 
 Detecting the absence of something may seem challenging, how do you find what isn't there? This is the concept of ELEPHANT.
 <!--more-->
 
-<p align="center">
-<img src="images/hostless-stamps.png"  height="200" align='center'>
-</p>
+<img src="images/hostless-stamps.png" width="100%" height="100%" style="display: block; margin: auto;" />
 
 We assume that all extragalactic transients are associated with a host galaxy. Galaxies are extended sources and transients are point sources that suddenly become extremely bright and then disappear. Thus, extragalactic transients typically appear like a bright dot on top of an extended luminous region. Yet, some extragalactic transients seem to burst in the middle of nowhere. We want to understand these events better. Are these really hostless or are the hosts very faint? 
 

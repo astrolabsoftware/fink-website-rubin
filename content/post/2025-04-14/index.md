@@ -1,6 +1,6 @@
 ---
 title: First exoplanet in Fink!
-date: 2025-04-07
+date: 2025-04-14
 cardimage: exoplanet.png
 ---
 
