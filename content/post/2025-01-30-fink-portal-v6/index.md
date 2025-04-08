@@ -4,7 +4,7 @@ title: Science Portal v6
 cardimage: portal_v6.png
 ---
 
-We are delighted toimages/API_fink.png announce the release of Fink Science Portal version 6. 
+We are delighted to announce the release of Fink Science Portal version 6. 
 <!--more-->
 
 While there are no new functionalities this time, there is a major change under the hood that should result in improved performance. Release notes can be found at: https://github.com/astrolabsoftware/fink-science-portal/releases/tag/6.0
