@@ -1,12 +1,18 @@
 ---
-title: First exoplanet in Fink!
-date: 2025-04-07
-cardimage: exoplanet.png
+title: Preparing machine learning classifiers for Rubin
+date: 2025-04-08
+cardimage: 
 ---
 
-We report the discovery of an exoplanet using the microlensing effect. This event marks the first exoplanet found with Fink and is a rare example of an event observed outside the Galactic bulge.
+Given the huge amount of data expected from Rubin and the small time window available to analyse it, Machine Learning (ML) methods are the best way to go. 
 <!--more-->
 
-The event was observed outside the Galactic bulge and was detected by both space-based (Gaia) and ground-based (ZTF and ASAS-SN) surveys. From the observed data, we find that the lens system is located at a distance of approximately 1 kiloparsec and comprises an M-dwarf host star with a mass of about half that of the Sun, orbited by a Jupiter-like planet beyond the snowline. According to spectral analyses and modeling, the source star is likely a metal-poor giant located in the halo. This is a unique example of a binary-lens event outside the bulge, made possible by a disc-halo lens-source combination.
 
-This work was carried out by a large team of scientists and amateur astronomers from around the world, who conducted follow-up observations. The Fink team was led by P. Voloshyn, a student at IJCLab and the University of Paris-Saclay. For more information, see https://arxiv.org/abs/2503.22331 (accepted for publication in Astronomy & Astrophysics).
+Fink is already classifying ZTF data using ML models with great results. While LSST is not here yet, we need to prepare for its arrival, having models ready already for the beginning of operations. Fink used a simulated dataset called ELAsTiCC, composed of more than 50 million alerts, to train ML models suitable for classifying alerts coming from LSST. These include two models adapted from ZTF (one to catch supernovae type Ia early, the other for super luminous supernovae), one general purpose light curve classifier called SuperNNova, and a deep learning multi class model designed specifically to work with LSST alerts, the CBPF alert transient search (CATS). 
+
+All of them had good performances with the simulated alerts, and were able to correctly classify alerts within a few days of the detection. Furthermore, infrastructure tests showed that Fink was able to process all classifiers quickly, a strict requirement to work with LSST data.
+
+The paper describing all results in detail can be found in [Fraga et al., 2024](https://www.aanda.org/articles/aa/full_html/2024/12/aa50370-24/aa50370-24.html).
+
+*Text by Bernardo Fraga*
+
