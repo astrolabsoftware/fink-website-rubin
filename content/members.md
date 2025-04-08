@@ -63,7 +63,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/LAPP, Université Grenoble-Alpes, Université Savoie Mont Blanc**: D. Boutigny
 * **CNRS/LPCA, Université Clermont Auvergne**: J. Cohen-Tanugi, E. Gangler, C. Mur
 * **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
-* **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry
+* **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, K. O. Xenos
 
 #### Germany
 
