@@ -41,7 +41,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Brazil
 
-* **Centro Brasileiro de Pesquisas Físicas**: J.P. Correia de França, C.R. De Bom, B. Fraga, J. C. Rodríguez Ramírez, A. Santos
+* **Centro Brasileiro de Pesquisas Físicas**: J.P. Correia de França, C.R. De Bom, B. Fraga, J.C. Rodríguez Ramírez, A. Santos, G.S.M. Teixeira
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
 * **Instituto de Astronomia, Geofísica e Ciências Atmosféricas - Universidade de São Paulo**: L. Nakazono, R. Ruiz Valença, G. Schwarz
 * **Instituto Nacional de Pesquisas Espaciais**: C. V. Rodrigues
@@ -81,7 +81,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/LPCA, Université Clermont Auvergne**: E. Gangler, C. Mur, P. Gris
 * **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
 * **CNRS/LUPM, Université de Montpellier**: J. Cohen-Tanugi
-* **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, A. Sergeyev
+* **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, A. Sergeyev, K. O. Xenos
 
 #### Germany
 
@@ -122,6 +122,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Queens University Belfast**: C. Angus
 * **University of Edinburgh**: R. Williams
 * **University of Hertfordshire**: R. S. de Souza
+* **University of Oxford**: H. Stevance
 * **University of Sheffield**: U. Burhanudin, J. Maund
 * **University of Southampton**: C. Frohmaier
 
