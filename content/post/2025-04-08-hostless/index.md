@@ -7,6 +7,8 @@ cardimage:
 Detecting the absence of something may seem challenging, how do you find what isn't there? This is the concept of ELEPHANT.
 <!--more-->
 
+![Hostless detection](assets/hostless-stamps.png)
+
 We assume that all extragalactic transients are associated with a host galaxy. Galaxies are extended sources and transients are point sources that suddenly become extremely bright and then disappear. Thus, extragalactic transients typically appear like a bright dot on top of an extended luminous region. Yet, some extragalactic transients seem to burst in the middle of nowhere. We want to understand these events better. Are these really hostless or are the hosts very faint? 
 
 We developed the ExtragaLactic alErt Pipeline for Hostless AstroNomical Transients (ELEPHANT) pipeline to detect potentially hostless events. Studying such hostless transients offers the opportunity to detect faint galaxies and gain insights into understanding the dynamics of galaxies. Also, they provide an opportunity to study the properties of star forming regions. 
