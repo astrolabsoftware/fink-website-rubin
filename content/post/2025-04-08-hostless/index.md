@@ -1,12 +1,17 @@
 ---
-title: First exoplanet in Fink!
-date: 2025-04-07
-cardimage: exoplanet.png
+title: Fink hostless module
+date: 2025-04-08
+cardimage: 
 ---
 
-We report the discovery of an exoplanet using the microlensing effect. This event marks the first exoplanet found with Fink and is a rare example of an event observed outside the Galactic bulge.
+Detecting the absence of something may seem challenging, how do you find what isn't there? This is the concept of ELEPHANT.
 <!--more-->
 
-The event was observed outside the Galactic bulge and was detected by both space-based (Gaia) and ground-based (ZTF and ASAS-SN) surveys. From the observed data, we find that the lens system is located at a distance of approximately 1 kiloparsec and comprises an M-dwarf host star with a mass of about half that of the Sun, orbited by a Jupiter-like planet beyond the snowline. According to spectral analyses and modeling, the source star is likely a metal-poor giant located in the halo. This is a unique example of a binary-lens event outside the bulge, made possible by a disc-halo lens-source combination.
+We assume that all extragalactic transients are associated with a host galaxy. Galaxies are extended sources and transients are point sources that suddenly become extremely bright and then disappear. Thus, extragalactic transients typically appear like a bright dot on top of an extended luminous region. Yet, some extragalactic transients seem to burst in the middle of nowhere. We want to understand these events better. Are these really hostless or are the hosts very faint? 
 
-This work was carried out by a large team of scientists and amateur astronomers from around the world, who conducted follow-up observations. The Fink team was led by P. Voloshyn, a student at IJCLab and the University of Paris-Saclay. For more information, see https://arxiv.org/abs/2503.22331 (accepted for publication in Astronomy & Astrophysics).
+We developed the ExtragaLactic alErt Pipeline for Hostless AstroNomical Transients (ELEPHANT) pipeline to detect potentially hostless events. Studying such hostless transients offers the opportunity to detect faint galaxies and gain insights into understanding the dynamics of galaxies. Also, they provide an opportunity to study the properties of star forming regions. 
+
+A full description of the pipeline can be found in [Pessi et al., 2024](https://www.aanda.org/articles/aa/full_html/2024/11/aa50535-24/aa50535-24.html) and identified hostless candidates can be received via a dedicated [Telegram bot](https://t.me/fink_hostless).
+
+*Text by Priscila Pessi and Rupesh Durgesh*
+
