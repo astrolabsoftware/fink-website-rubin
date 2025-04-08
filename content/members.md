@@ -107,6 +107,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### USA
 
+* **IPAC**: E. Bachelet
 * **University of North Carolina at Chapel Hill**: H. Corbett
 
 
