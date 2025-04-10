@@ -6,15 +6,7 @@
       {{ $name := .Site.Params.Author.name }}
       {{ $icon := .Site.Params.Author.icon }}
       {{ with $image }}
-        {{ $image = $image.Filter (images.Process "resize 825x637 Lanczos q100 webp" ) }}
-        <div class="relative w-full">
-          <img class="mb-1 h-full w-full" alt="{{ $name | default "Author" }}" src="{{ $image.RelPermalink }}" />
-          {{ with $icon }}
-            <div class="absolute bottom-4 right-0 flex h-10 w-10 items-center justify-center rounded-full border-2 border-solid border-slate-50 bg-neutral-300 dark:bg-neutral-500">
-              {{ . | emojify }}
-            </div>
-          {{ end }}
-        </div>
+          <img class="mb-1" src="{{ $image.RelPermalink }}" width="35%" />
       {{ end }}
 
 
