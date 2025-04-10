@@ -1,24 +1,48 @@
-# fink-website-rubin
+# Fink collaboration website
 
-Please follow the instructions below to finish the setup of your new Qubt site.
+## Edition
 
-## Installation
+### New post
 
-1) Add a LICENSE to your repo.
-2) Clone your version of the template to your local computer:
-```shell
-git clone https://github.com/<username>/<reponame>
+Create a new folder under `content/post`, with the date of the post and a meaningful set of words. Inside this folder, add a markdown file called `index.md`, and add your post. The header of the file must contain at least three entries:
+
+```yaml
+title: # the title of your post
+date: # YYYY-MM-DD
+cardimage: # an image to be shown in the gallery of posts
 ```
-3) Modify `config/_default/hugo.yaml`, `config/_default/params.yaml` and `config/_default/menus.yaml` according to to your needs. Find more info on the theme [wiki](https://github.com/chrede88/qubt/wiki/Configuration).
-4) Add your blog posts to `content/blog/`. See the [wiki](https://github.com/chrede88/qubt/wiki/Content) or example posts for reference.
-5) Modify `content/about.md` so it matches your preferences.
-6) Build a local version of your site by executing `hugo server`. You can see the site by navigating to `localhost:1313` (actual URL will be outputted in the CLI) in a browser.
+
+Note that the image for the card must be stored under `assets/` at the root of the repository. If you want to display images in your post, create a folder under `content/post/<your_folder_name>/images` and put images there. Then in your post, display images using:
+
+```md
+![my image](images/your_image_name.png)
+```
+
+### Layout
+
+The layout components are from the qubt Hugo theme. In case you want to override them, just place them under `layout/`.
+
+## Build
+
+Make sure you have Hugo Extended Edition 0.122.0 or later and Go 1.23.3 or later installed on your local machine. Read the instructions [here](https://gohugo.io/installation/). Then you can access a local version of the website by executing
+
+```bash
+hugo server
+```
+
+Then navigate to `localhost:1313`
 
 ---
 
 ## Configuration
 
 See the [wiki](https://github.com/chrede88/qubt/wiki) for all info about configuration.
+
+---
+
+## Deployment
+
+The site is simply deployed using GitHub pages.
 
 ---
 
@@ -34,17 +58,3 @@ The best practice is to update to released and tested versions. To update to a s
 Replace X,Y & Z with the corresponding version numbers. You can find the releases [here](https://github.com/chrede88/qubt/releases). Please check if any breaking changes are listed under the release you want to update to, before proceeding.
 
 ---
-
-## Deploy on Github Pages
-You can very easily deploy your site using Github Pages. Included in this template is a Github Action workflow that will build and deploy your site to Github Pages automatically :+1:
-
-You can find the workflow here `.github/deploymentWorkflow/buildDeploy.yml`. To use this, move it to `.github/workflows/`.
-
-The workflow is already set up and ready to go, but go through it and spend some time to understand what's going on. Otherwise, it'll always be this black box of magic that you can't fix when it breaks!
-
-Last step: Go to Settings -> Pages -> Build and deployment -> Set the Source to "Github Actions".
-
-Next time you publish a release this workflow will build and deploy your site :tada:
-
-Your site will be published to the following URL:
-`https://JulienPeloton.github.io/fink-website-rubin`
