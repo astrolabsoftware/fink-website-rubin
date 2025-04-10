@@ -32,19 +32,13 @@ hugo server
 
 Then navigate to `localhost:1313`
 
----
-
 ## Configuration
 
 See the [wiki](https://github.com/chrede88/qubt/wiki) for all info about configuration.
 
----
-
 ## Deployment
 
 The site is simply deployed using GitHub pages.
-
----
 
 ## Update the Theme Version
 
@@ -56,5 +50,3 @@ The best practice is to update to released and tested versions. To update to a s
   hugo mod get github.com/Chrede88/qubt@vX.Y.Z
 ```
 Replace X,Y & Z with the corresponding version numbers. You can find the releases [here](https://github.com/chrede88/qubt/releases). Please check if any breaking changes are listed under the release you want to update to, before proceeding.
-
----
