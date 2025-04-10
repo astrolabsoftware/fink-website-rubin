@@ -1,3 +1,5 @@
+[![Build & Deploy](https://github.com/JulienPeloton/fink-website-rubin/actions/workflows/buildDeploy.yaml/badge.svg)](https://github.com/JulienPeloton/fink-website-rubin/actions/workflows/buildDeploy.yaml)
+
 # Fink collaboration website
 
 ## Edition
