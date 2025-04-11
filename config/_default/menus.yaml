@@ -10,7 +10,7 @@ main:
   url: https://fink-portal.org
   weight: 11
 - name: News
-  url: /post/
+  url: /news/
   weight: 20
 - name: Publications
   url: /papers/
