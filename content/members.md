@@ -98,6 +98,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 * **EPFL**: V. Savchenko
 
+#### Ukraine
+
+* **Taras Shevchenko National University of Kyiv**: P. Voloshyn
+
 #### United Kingdom
 
 * **The Alan Turing Institute**: T. Allam Jr.
