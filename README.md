@@ -6,7 +6,7 @@
 
 ### New post
 
-Create a new folder under `content/post`, with the date of the post and a meaningful set of words. Inside this folder, add a markdown file called `index.md`, and add your post. The header of the file must contain at least three entries:
+Create a new folder under `content/news`, with the date of the post and a meaningful set of words. Inside this folder, add a markdown file called `index.md`, and add your post. The header of the file must contain at least three entries:
 
 ```yaml
 title: # the title of your post
@@ -14,7 +14,7 @@ date: # YYYY-MM-DD
 cardimage: # an image to be shown in the gallery of posts
 ```
 
-Note that the image for the card must be stored under `assets/` at the root of the repository. If you want to display images in your post, create a folder under `content/post/<your_folder_name>/images` and put images there. Then in your post, display images using:
+Note that the image for the card must be stored under `assets/` at the root of the repository. If you want to display images in your post, create a folder under `content/news/<your_folder_name>/images` and put images there. Then in your post, display images using:
 
 ```md
 ![my image](images/your_image_name.png)
