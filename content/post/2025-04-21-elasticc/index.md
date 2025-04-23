@@ -16,3 +16,6 @@ The paper describing all results in detail can be found in [Fraga et al., 2024](
 
 *Text by Bernardo Fraga*
 
+
+<img src="images/fink-portal-cats.png" width="70%" height="700%" style="display: block; margin: auto;" />
+
