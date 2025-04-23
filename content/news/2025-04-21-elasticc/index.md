@@ -1,7 +1,7 @@
 ---
 title: Preparing machine learning classifiers for Rubin
 date: 2025-04-21
-cardimage: ml_classifiers.png
+cardimage: 
 ---
 
 Given the huge amount of data expected from Rubin and the small time window available to analyse it, Machine Learning (ML) methods are the best way to go. 
@@ -15,4 +15,7 @@ All of them had good performances with the simulated alerts, and were able to co
 The paper describing all results in detail can be found in [Fraga et al., 2024](https://www.aanda.org/articles/aa/full_html/2024/12/aa50370-24/aa50370-24.html).
 
 *Text by Bernardo Fraga*
+
+
+<img src="images/fink-portal-cats.png" width="70%" height="700%" style="display: block; margin: auto;" />
 
