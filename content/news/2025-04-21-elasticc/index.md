@@ -1,7 +1,7 @@
 ---
 title: Preparing machine learning classifiers for Rubin
 date: 2025-04-21
-cardimage: 
+cardimage: ml_classifiers.png
 ---
 
 Given the huge amount of data expected from Rubin and the small time window available to analyse it, Machine Learning (ML) methods are the best way to go. 
