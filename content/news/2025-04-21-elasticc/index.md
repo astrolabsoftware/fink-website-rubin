@@ -14,7 +14,7 @@ Fink is already classifying ZTF data using ML models with great results. While L
 
 All of them had good performances with the simulated alerts, and were able to correctly classify alerts within a few days of the detection. Furthermore, infrastructure tests showed that Fink was able to process all classifiers quickly, a strict requirement to work with LSST data.
 
-The paper describing all results in detail can be found in [Fraga et al., 2024](https://www.aanda.org/articles/aa/full_html/2024/12/aa50370-24/aa50370-24.html).
+The paper describing all results in detail can be found in [Fraga et al., 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.208F/abstract).
 
 *Text by Bernardo Fraga*
 
