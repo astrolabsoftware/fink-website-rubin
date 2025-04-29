@@ -39,8 +39,9 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 * **Centro Brasileiro de Pesquisas Físicas**: C.R. De Bom, J.P. Correia de França, B. Fraga, J.C. Rodríguez Ramírez, A. Santos, G.S.M. Teixeira
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
-* **Instituto de Astronomia, Geofísica e Ciências Atmosféricas - Universidade de São Paulo**: L. Nakazono, R. Ruiz Valença, G. Schwarz
+* **Instituto de Astronomia, Geofísica e Ciências Atmosféricas - Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 * **Instituto Nacional de Pesquisas Espaciais**: C. V. Rodrigues
+* **Observatório Nacional**:  L. Nakazono
 
 #### China
 
