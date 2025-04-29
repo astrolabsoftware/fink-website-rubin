@@ -31,7 +31,7 @@ We want Fink to be able to _filter, aggregate, enrich, consume_ incoming data st
 * collecting classification and other information gathered by the scientific community
 
 ## About Fink's collaboration
-We are eager to have a vibrant collaboration with members from both engineering and research backgrounds around the world. We are commiteed to have an inclusive and respectful collaboration. Our Code of Conduct is available [here](https://drive.google.com/file/d/1U3nhLDYkAbaxD3dszvQPflkDlM2s1X6-/view?usp=share_link).
+We are eager to have a vibrant collaboration with members from both engineering and research backgrounds around the world. We are commiteed to have an inclusive and respectful collaboration. Our Code of Conduct is available [here](https://drive.google.com/file/d/1Y055Ud1SB0pzywtf7r2dDqvracZTX1Ir/view?usp=sharing).
 
 ## Getting started
 
