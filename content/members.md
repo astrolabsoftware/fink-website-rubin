@@ -28,8 +28,8 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **UNAHUR/CONICET**: G. J. M. Luna
 
 #### Australia
-* **Australian National University**: C. Lidman, B. Schmidt
-* **ICRAR-Curtin University**: A. Goodwin
+* **Australian National University**: C. Lidman, B. Schmidt, J. Soon
+* **Curtin University**: A. Goodwin, H. Roxburgh
 * **Monash University**: R. Hirai (also RIKEN, Japan)
 * **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender,  O. V. Velazquez, T. Waterson, S. Webb
 * **The University of Melbourne**: K. Auchettl
@@ -69,6 +69,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### Germany
 
 * **COIN**: R. Durgesh
+
+#### India
+
+* **BITS Pilani**: Y. Gondhalekar  
 
 #### Portugal
 
