@@ -112,6 +112,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **The Alan Turing Institute**: T. Allam Jr.
 * **University of Edinburgh**: R. Williams
 * **University of Hertfordshire**: R. S. de Souza
+* **Queen's University Belfast**: C. Angus
 * **University of Oxford**: H. Stevance
 
 #### USA
