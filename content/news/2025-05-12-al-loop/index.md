@@ -23,10 +23,19 @@ We take the photometric classifier of early type Ia supernovae vs. non early typ
 
 ![AL_Loop](images/AL_Loop.png)
 
-_Lightcurve for AT2021uey, or [ZTF18abktckv](https://fink-portal.org/ZTF18abktckv), around the main event in 2021. Data from alerts is shown with large colored circles, while small dots show data from ZTF Data Release. The rise of luminosity in July 2021 is due to the presence of the planet._
+_Active Learning loop schema. The loop starts with the Initial train sample which is used to train the Early SN Ia classifier, this algorithm is then applied to alerts processed by the Fink broker from the ZTF public stream. We select alerts which obtain the closest PIa to 0.5 and schedule spectroscopic follow-up with the ANU 2.3m if they have no spectroscopic classification. Once a label is obtained, we add the light-curves and labels for the selected events to the training set. The loop is repeated during the observing period._
 
-This event was difficult to describe because it was faint, and the signal from the exoplanet appeared before the main signal. With the launch of the LSST later this year, we expect to see many more events involving exoplanets. We are also working on improving our [microlensing classifier](https://github.com/Professor-G/MicroLIA), which will help us identify these events more accurately. This improvement will allow us to start follow-up observations sooner, helping us learn more about the characteristics of exoplanets.
+*What do we find?*  
+We find that at the beginning, our classifier has similar performance than adding “usual” follow-up targets. In this case, the usual follow-up targets are from ZTF TNS reported ones. But after adding ~60 new objects, our system recommends better objects to follow-up to improve the accuracy, efficiency of classification. A win that can save us one and a half nights of observation compared to 5.3 nights of other approaches.
 
-This work was carried out by a large team of scientists and amateur astronomers from around the world, who conducted follow-up observations. The Fink team was led by P. Voloshyn, a student at IJCLab and the University of Paris-Saclay and Taras Shevchenko National University of Kyiv, Ukraine and Etienne Bachelet from IPAC, US. For more information, see https://arxiv.org/abs/2503.22331 (accepted for publication in Astronomy & Astrophysics).
+![Metrics](images/accuracy.png)
 
-Postscript: Interestingly, while we were analyzing this event, it also caught the attention of the SNAD team, who were scanning the ZTF Data Release 17 using an anomaly detection algorithm. This discovery is summarized in a [Research Note](https://iopscience.iop.org/article/10.3847/2515-5172/ace9dd/ampdf). It is encouraging for future detections that these rare events can be identified through anomaly detection techniques. We should consider combining traditional search methods with (active) anomaly detection algorithms to improve our ability to detect these events even earlier, and in bigger number.
+_Evolution of classification metrics as a function of time from the FINK AL strategy (orange) and using all TNS reported ZTF classifications (blue)._
+
+While doing this we don’t only select supernovae, our usual objects for training sets, but also microlensing events, AGNs, stars, etc… quite different from usual follow-up! 
+
+
+You can see these results and more in our paper [Moller *et al.*, 2025](https://arxiv.org/abs/2502.19555).
+
+
+
