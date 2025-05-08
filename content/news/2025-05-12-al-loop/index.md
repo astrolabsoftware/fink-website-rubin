@@ -1,15 +1,27 @@
 ---
-title: First real time active learning!
+title: First real-time active learning for optimising supernova follow-up
 date: 2025-05-12
 cardimage: exoplanet.png
 ---
 
-We report the discovery of an exoplanet using the microlensing effect. This event marks the first exoplanet found with Fink and is a rare example of an event observed outside the Galactic bulge.
+*How do we choose which objects to use our precious telescope time for follow-up?*
 <!--more-->
 
-The event was observed outside the center of our galaxy and was detected by both space-based telescopes like Gaia and ground-based surveys such as ZTF and ASAS-SN. Fink's microlensing classification initially drew attention to this event, leading to observations by many other telescopes. From the data collected, we found that the lens system is about 1 kiloparsec away and consists of a small star, known as an M-dwarf, which has about half the mass of our Sun. This star is orbited by a planet similar to Jupiter, located beyond the region where ice can form. Our analysis suggests that the source star is likely a giant star with low metal content, situated in the halo of the galaxy. This event is a unique example of a binary-lens event occurring outside the galactic center, made possible by the combination of a disc and halo lensing the source star.
+For Rubin we won’t have enough telescope time to obtain spectra - breaking light in its full range of colours or wavelengths - to classify all supernovae and transients. An alternative is photometric classification, which uses the evolution of luminosity in different broad-band wavelengths, light-curves- instead of spectroscopy to classify transients. Light-curves are exactly what Rubin LSST and ZTF provide to Fink!
 
-![microlensing](images/microlensing.png)
+But how do we train these photometric classifiers?  Like the snake biting its tail, we train them using the objects we know which type are from spectroscopy!
+
+*So how do we use our limited amount of spectroscopic time to improve photometric classifiers?*
+<!--more-->
+
+The Fink team has been developing a new way of selecting follow-up targets, using Active Learning. Active Learning is a Machine Learning technique where the model selects the most useful data to learn from. It asks questions like, “Which objects would help me learn the most if I knew their labels?”. In this work, we show for the first time that an Active Learning strategy is the best way to select which objects to follow-up spectroscopically and, as consequence,  improve our photometric classifiers. A handful no?
+
+
+*How does it work?*  
+We take the photometric classifier of early type Ia supernovae vs. non early type Ia supernovae from ([Leoni et al. 2022](https://www.aanda.org/articles/aa/full_html/2022/07/aa42715-21/aa42715-21.html) & [Ishida et al. 2019](https://academic.oup.com/mnras/article/483/1/2/5162860?login=false)) and train it with 20 known light-curves from supernovae and other transients. We then apply this classifier to new data from the Zwicky Transient Facility. Instead of selecting those objects with high probability, we select those that the classifier is most unsure of (probability ~0.5). These objects, if they are bright enough, are sent to be followed-up by the ANU 2.3m spectrograph. We get the spectra, we obtain the type of supernova or transient it is and we put this new object in the training set. Retrain - apply to ZTF data - and do this all over again!
+
+
+![AL_Loop](images/AL_Loop.png)
 
 _Lightcurve for AT2021uey, or [ZTF18abktckv](https://fink-portal.org/ZTF18abktckv), around the main event in 2021. Data from alerts is shown with large colored circles, while small dots show data from ZTF Data Release. The rise of luminosity in July 2021 is due to the presence of the planet._
 
