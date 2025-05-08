@@ -32,6 +32,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Curtin University**: A. Goodwin, H. Roxburgh
 * **Monash University**: R. Hirai (also RIKEN, Japan)
 * **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender,  O. V. Velazquez, T. Waterson, S. Webb
+* **The University of Adelaide**: S. Einecke
 * **The University of Melbourne**: K. Auchettl
 * **The University of Sydney**: D. Dobie, K. Rose
 
