@@ -1,18 +1,20 @@
 ---
 title: First real-time active learning for optimising supernova follow-up
 date: 2025-05-12
-cardimage: exoplanet.png
+cardimage: al_loop.jpg
 ---
 
-*How do we choose which objects to use our precious telescope time for follow-up?*
+Discover how Active Learning optimizes spectroscopic follow-up, enhancing supernova classification while saving valuable telescope time!
+
 <!--more-->
+
+*How do we choose which objects to use our precious telescope time for follow-up?*
 
 For Rubin we won’t have enough telescope time to obtain spectra - breaking light in its full range of colours or wavelengths - to classify all supernovae and transients. An alternative is photometric classification, which uses the evolution of luminosity in different broad-band wavelengths, light-curves- instead of spectroscopy to classify transients. Light-curves are exactly what Rubin LSST and ZTF provide to Fink!
 
 But how do we train these photometric classifiers?  Like the snake biting its tail, we train them using the objects we know which type are from spectroscopy!
 
 *So how do we use our limited amount of spectroscopic time to improve photometric classifiers?*
-<!--more-->
 
 The Fink team has been developing a new way of selecting follow-up targets, using Active Learning. Active Learning is a Machine Learning technique where the model selects the most useful data to learn from. It asks questions like, “Which objects would help me learn the most if I knew their labels?”. In this work, we show for the first time that an Active Learning strategy is the best way to select which objects to follow-up spectroscopically and, as consequence,  improve our photometric classifiers. A handful no?
 
