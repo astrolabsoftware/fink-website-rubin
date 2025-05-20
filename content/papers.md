@@ -130,6 +130,11 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### Selected papers featuring Fink
 
 <div class="text-with-image">
+    <a href="https://arxiv.org/abs/2501.06968" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Nature&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <b>AAS2RTO: Automated Alert Streams to Real-Time Observations: Preparing for rapid follow-up of transient objects in the era of LSST,</b> <i>Aidan Sedgewick et al.</i>
+</div>
+
+<div class="text-with-image">
     <a href="https://doi.org/10.1038/s41586-024-08543-1" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Nature&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Observation of an ultra-high-energy cosmic neutrino with KM3NeT,</b> <i>KM3NeT Collaboration</i>
 </div>
