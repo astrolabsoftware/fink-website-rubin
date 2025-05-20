@@ -23,7 +23,7 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2025
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2503.22331" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://www.aanda.org/articles/aa/abs/2025/04/contents/contents.html" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2503.22331" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1051/0004-6361/202554236" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>AT2021uey: A planetary microlensing event outside the Galactic bulge,</b> <i> M. Ban, P. Voloshyn, et al</i>
 </div>
 
