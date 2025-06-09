@@ -19,8 +19,8 @@ However, even with improved models, another challenge remained to be tackled. It
 
 These tools have already been used within the Fink broker. They have enabled high accuracy in several classifiers, indicating that the information extracted ensure a robust light curve classification. Such results constitute an important step in the preparation for a new and more complex generation of astronomical experiments. 
 
-[1] Russeil *et al.*, 2024, [*Multiview Symbolic Regression*](https://dl.acm.org/doi/10.1145/3638529.3654087), GECCO '24: Proceedings of the Genetic and Evolutionary Computation Conference, [arXiv:astro-ph/2402.04298](https://arxiv.org/abs/2402.04298)
+[1] Russeil *et al.*, 2024, [*Multiview Symbolic Regression*](https://dl.acm.org/doi/10.1145/3638529.3654087), GECCO '24: Proceedings of the Genetic and Evolutionary Computation Conference, [arXiv:astro-ph/2402.04298](https://arxiv.org/abs/2402.04298)  
 [2] Russeil *et al.*, 2023, [*RAINBOW: A colorful approach to multipassband light-curve estimation*](https://www.aanda.org/articles/aa/full_html/2024/03/aa48158-23/aa48158-23.html),  Astronomy & Astrophysics, Volume 683, id.A251, 13 pp.
 
-Both works were part of the PhD thesis, [*Feature engineering and machine learning for 21st Century Astronomy*](https://theses.hal.science/tel-04818477v1), by Dr. Etienne Russeil, defended at Université Clermont Auvergne and was awarded the [2025 Prix Jeune Chercheur](https://clermont-ferrand.fr/prix-jeunes-chercheurs). 
+Both works were part of the PhD thesis, [*Feature engineering and machine learning for 21st Century Astronomy*](https://theses.hal.science/tel-04818477v1), by Dr. Etienne Russeil, defended at Université Clermont Auvergne and which was awarded the [2025 Prix Jeune Chercheur](https://clermont-ferrand.fr/prix-jeunes-chercheurs). 
 
