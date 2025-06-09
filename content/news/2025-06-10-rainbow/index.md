@@ -8,12 +8,14 @@ In order to deal with the unprecedented data volume of photometric data that wil
 
 A common procedure used to extract information from a light curve is **to fit a phenomenological model** to the observations. However, in practice, it is not clear which model should be used for a given science case, or even if any of these models is optimal. In order to answer this question, the **Multi-view Symbolic Regression** (MvSR) [1] framework was developed. It is a data-driven method which automatically constructs a parametric model from a set of examples. It constitutes a new powerful tool to describe transient behavior. It has been used to discover **new models** that offer improvements, including better fit or lower number of parameters, compared to other available functional forms presented in the literature.
 
-[Figure]
+<img src="images/lcs.png" width="70%" height="700%" style="display: block; margin: auto;" />
+
 
 
 However, even with improved models, another challenge remained to be tackled. It concerns the proper description of light curves with measurements generated using different **wavelength filters**.  In partnership with the SNAD team, we developed the **Rainbow framework** [2], which enables simultaneous multi-wavelength light curve fitting based on the assumption that the transient behaves as a blackbody. This hypothesis enables the reconstruction of a 2-dimensional continuous surface across wavelength and time. We show that such representation encapsulates much more information regarding the nature of the source, and in particular greatly **improves classification performances**.
 
-[Figure]
+<img src="images/surface.png" width="70%" height="700%" style="display: block; margin: auto;" />
+
 
 These tools have already been used within the Fink broker. They have enabled high accuracy in several classifiers, indicating that the information extracted ensure a robust light curve classification. Such results constitute an important step in the preparation for a new and more complex generation of astronomical experiments. 
 
