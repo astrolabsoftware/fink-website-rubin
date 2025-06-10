@@ -1,7 +1,7 @@
 ---
 title: Data-driven analytical descriptions for LSST light curves
 date: 2025-06-10
-cardimage: al_loop.jpg
+cardimage: rainbow.jpg
 ---
 
 In order to deal with the unprecedented data volume of photometric data that will be produced by LSST, we need to optimize our approach to deal with very complex light curves. This work focused on the development of methods able to extract **as much information as possible from the light curves**. 
