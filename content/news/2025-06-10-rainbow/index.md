@@ -4,7 +4,9 @@ date: 2025-06-10
 cardimage: rainbow.jpg
 ---
 
-In order to deal with the unprecedented data volume of photometric data that will be produced by LSST, we need to optimize our approach to deal with very complex light curves. This work focused on the development of methods able to extract **as much information as possible from the light curves**. 
+In order to deal with the unprecedented data volume of photometric data that will be produced by LSST, we need to optimize our approach to deal with very complex light curves. 
+<!--more-->
+This work focused on the development of methods able to extract **as much information as possible from the light curves**. 
 
 A common procedure used to extract information from a light curve is **to fit a phenomenological model** to the observations. However, in practice, it is not clear which model should be used for a given science case, or even if any of these models is optimal. In order to answer this question, the **Multi-view Symbolic Regression** (MvSR) [1] framework was developed. It is a data-driven method which automatically constructs a parametric model from a set of examples. It constitutes a new powerful tool to describe transient behavior. It has been used to discover **new models** that offer improvements, including better fit or lower number of parameters, compared to other available functional forms presented in the literature.
 
