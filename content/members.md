@@ -52,6 +52,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 * **CEICO, Institute of Physics, Czech Academy of Sciences**: S. Karpov
 
+#### Denmark
+
+* **DARK / UCPH**: A. Sedgewick
+
 #### France
 
 * **CEA/AIM, Université Paris-Saclay**: D. Turpin
