@@ -12,7 +12,7 @@ A common procedure used to extract information from a light curve is **to fit a 
 
 
 
-However, even with improved models, another challenge remained to be tackled. It concerns the proper description of light curves with measurements generated using different **wavelength filters**.  In partnership with the SNAD team, we developed the **Rainbow framework** [2], which enables simultaneous multi-wavelength light curve fitting based on the assumption that the transient behaves as a blackbody. This hypothesis enables the reconstruction of a 2-dimensional continuous surface across wavelength and time. We show that such representation encapsulates much more information regarding the nature of the source, and in particular greatly **improves classification performances**.
+However, even with improved models, another challenge remained to be tackled. It concerns the proper description of light curves with measurements generated using different **wavelength filters**.  This thesis also includes the  **Rainbow framework** [2], developed within the [SNAD team](https://snad.space/), which enables simultaneous multi-wavelength light curve fitting based on the assumption that the transient behaves as a blackbody. This hypothesis enables the reconstruction of a 2-dimensional continuous surface across wavelength and time. We show that such representation encapsulates much more information regarding the nature of the source, and in particular greatly **improves classification performances**.
 
 <img src="images/surface.png" width="70%" height="700%" style="display: block; margin: auto;" />
 
