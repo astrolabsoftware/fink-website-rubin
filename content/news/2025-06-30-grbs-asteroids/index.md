@@ -1,28 +1,22 @@
 ---
-title: Data-driven analytical descriptions for LSST light curves
-date: 2025-06-10
-cardimage: rainbow.jpg
+title: Finding GRBs and Asteroids in Fink
+date: 2025-06-30
+cardimage: asteroids.jpg
 ---
 
-In order to deal with the unprecedented data volume of photometric data that will be produced by LSST, we need to optimize our approach to deal with very complex light curves. 
+The transient seen through Fink allows us to study very near and very far astronomical objects in the same breath!
 <!--more-->
-This work focused on the development of methods able to extract **as much information as possible from the light curves**. 
 
-A common procedure used to extract information from a light curve is **to fit a phenomenological model** to the observations. However, in practice, it is not clear which model should be used for a given science case, or even if any of these models is optimal. In order to answer this question, the **Multi-view Symbolic Regression** (MvSR) [1] framework was developed. It is a data-driven method which automatically constructs a parametric model from a set of examples. It constitutes a new powerful tool to describe transient behavior. It has been used to discover **new models** that offer improvements, including better fit or lower number of parameters, compared to other available functional forms presented in the literature.
+This work addresses the challenge of associating signals from optical telescopes with high-energy astrophysical events such as gravitational waves, gamma-ray bursts (GRBs), and neutrinos. To tackle this, we developed the  Fink-MM (Fink Multi-Messenger) module, a real-time system for identifying optical counterparts to multi-messenger alerts using spatial and temporal coincidence filtering, enhanced with statistical methods tailored to GRBs. This led to the successful identification of [GRB 230827256](https://ui.adsabs.harvard.edu/abs/2023GCN.34574....1L/abstract) optical counterpart!
 
-<img src="images/lcs.png" width="70%" height="700%" style="display: block; margin: auto;" />
+<img src="images/moc_skymap_S230726k.png" width="70%" height="700%" style="display: block; margin: auto;" />
+
+A second major contribution is Fink-FAT (Fink Asteroid Tracker), a tool designed to detect and reconstruct the trajectories of previously unknown asteroids using sparse and noisy data from optical alerts. By estimating orbital parameters and generating ephemerides, Fink-FAT enables the classification and confirmation of mobile objects that would otherwise contaminate searches for extragalactic transients. The tool was validated through follow-up campaigns with ground-based telescopes, which confirmed known objects, identified moons of Jupiter, and potentially revealed new, uncatalogued solar system bodies. This work is described in [Le Montagner et al., 2023](https://www.aanda.org/articles/aa/full_html/2023/12/aa46905-23/aa46905-23.html).
+
+<img src="images/candidate_fink_fat_distribution_with_mpc.png" width="70%" height="700%" style="display: block; margin: auto;" />
+
+Finally, we explored the need for follow-up infrastructure to support real-time discovery. To address this, we initiated the design of GVOM (Ground Variable Object Monitor), a coordination system for scheduling and managing follow-up observations of transient candidates. Though still a prototype, GVOM represents a step toward a fully automated multi-messenger detection and characterisation pipeline. The work showcases how scalable, distributed tools can prepare for the data-intensive future of time-domain astronomy with the upcoming LSST.
 
 
-
-However, even with improved models, another challenge remained to be tackled. It concerns the proper description of light curves with measurements generated using different **wavelength filters**.  In partnership with the SNAD team, we developed the **Rainbow framework** [2], which enables simultaneous multi-wavelength light curve fitting based on the assumption that the transient behaves as a blackbody. This hypothesis enables the reconstruction of a 2-dimensional continuous surface across wavelength and time. We show that such representation encapsulates much more information regarding the nature of the source, and in particular greatly **improves classification performances**.
-
-<img src="images/surface.png" width="70%" height="700%" style="display: block; margin: auto;" />
-
-
-These tools have already been used within the Fink broker. They have enabled high accuracy in several classifiers, indicating that the information extracted ensure a robust light curve classification. Such results constitute an important step in the preparation for a new and more complex generation of astronomical experiments. 
-
-[1] Russeil *et al.*, 2024, [*Multiview Symbolic Regression*](https://dl.acm.org/doi/10.1145/3638529.3654087), GECCO '24: Proceedings of the Genetic and Evolutionary Computation Conference, [arXiv:astro-ph/2402.04298](https://arxiv.org/abs/2402.04298)  
-[2] Russeil *et al.*, 2023, [*RAINBOW: A colorful approach to multipassband light-curve estimation*](https://www.aanda.org/articles/aa/full_html/2024/03/aa48158-23/aa48158-23.html),  Astronomy & Astrophysics, Volume 683, id.A251, 13 pp.
-
-Both works were part of the PhD thesis, [*Feature engineering and machine learning for 21st Century Astronomy*](https://theses.hal.science/tel-04818477v1), by Dr. Etienne Russeil, defended at Université Clermont Auvergne and which was awarded the [2025 Prix Jeune Chercheur](https://clermont-ferrand.fr/prix-jeunes-chercheurs). 
+All the above contributions are part of the PhD thesis, [*High-Energy Transient Universe in the Era of Large Optical Surveys*](https://theses.hal.science/tel-04836942/), by Dr. Roman Le Montagner, defended at Universite Paris-Saclay, 2024. 
 
