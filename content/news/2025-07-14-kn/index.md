@@ -1,43 +1,18 @@
 ---
-title: First real-time active learning for optimising supernova follow-up
-date: 2025-05-12
-cardimage: al_loop.jpg
+title: Searching for kilonovae with Fink
+date: 2025-07-14
+cardimage: xx
 ---
 
-Discover how Active Learning optimizes spectroscopic follow-up, enhancing supernova classification while saving valuable telescope time!
+Since the dawn of multi-messenger astronomy, with the detection of gravitational wave (GW) event [GW170817](https://en.wikipedia.org/wiki/GW170817), the community has been in pursuit of detecting more of their electromagnetic (EM) counterparts known as kilonovae (KNe). For this purpose, large regions need to be scanned in a few days to look for EM counterparts within the localization obtained from GW signals. The survey strategy of the upcoming Large Survey of Space and Time (LSST) will answer this need. To prepare for the arrival of LSST, we have developed within Fink a fast transient classification algorithm to process precursor data from the Zwicky Transient Facility.
 
-<!--more-->
+Using principal component analysis, this module generates features designed to grasp different light curve behaviors to separate fast (KN-like) from slow (non-KN-like) evolving events (see Figure 1). Mimicking ZTF alert-like 30 days of simulated data, the classifier obtained 69% precision and 70% recall for KN, with most of the contamination coming from other fast transients. The trained model is integrated into the Fink broker and has been distributing fast transients to the community. Details were reported in [Biswas *et al.*, 2023](https://www.aanda.org/articles/aa/full_html/2023/09/aa45340-22/aa45340-22.html).
 
-*How do we choose which objects to use our precious telescope time for follow-up?*
+This module represents one crucial link in an intricate chain of infrastructure for multi-messenger astronomy being put in place by the Fink broker team in preparation for the arrival of LSST data.
 
-For Rubin we won’t have enough telescope time to obtain spectra - breaking light in its full range of colours or wavelengths - to classify all supernovae and transients. An alternative is photometric classification, which uses the evolution of luminosity in different broad-band wavelengths, light-curves- instead of spectroscopy to classify transients. Light-curves are exactly what Rubin LSST and ZTF provide to Fink!
+![countors](images/kn_countors.png)
 
-But how do we train these photometric classifiers?  Like the snake biting its tail, we train them using the objects we know which type are from spectroscopy!
+_c1, c2, and c3 are features generated separately for the r and g-bands of ZTF. The difference shows that short-term (KN-like) and long-term (non-KN like) can be separated in this feature space._
 
-*So how do we use our limited amount of spectroscopic time to improve photometric classifiers?*
-
-The Fink team has been developing a new way of selecting follow-up targets, using Active Learning. Active Learning is a Machine Learning technique where the model selects the most useful data to learn from. It asks questions like, “Which objects would help me learn the most if I knew their labels?”. In this work, we show for the first time that an Active Learning strategy is the best way to select which objects to follow-up spectroscopically and, as consequence,  improve our photometric classifiers. A handful no?
-
-
-*How does it work?*  
-We take the photometric classifier of early type Ia supernovae vs. non early type Ia supernovae from ([Leoni et al. 2022](https://www.aanda.org/articles/aa/full_html/2022/07/aa42715-21/aa42715-21.html) & [Ishida et al. 2019](https://academic.oup.com/mnras/article/483/1/2/5162860?login=false)) and train it with 20 known light-curves from supernovae and other transients. We then apply this classifier to new data from the Zwicky Transient Facility. Instead of selecting those objects with high probability, we select those that the classifier is most unsure of (probability ~0.5). These objects, if they are bright enough, are sent to be followed-up by the ANU 2.3m spectrograph. We get the spectra, we obtain the type of supernova or transient it is and we put this new object in the training set. Retrain - apply to ZTF data - and do this all over again!
-
-
-![AL_Loop](images/AL_Loop.png)
-
-_Active Learning loop schema. The loop starts with the Initial train sample which is used to train the Early SN Ia classifier, this algorithm is then applied to alerts processed by the Fink broker from the ZTF public stream. We select alerts which obtain the closest PIa to 0.5 and schedule spectroscopic follow-up with the ANU 2.3m if they have no spectroscopic classification. Once a label is obtained, we add the light-curves and labels for the selected events to the training set. The loop is repeated during the observing period._
-
-*What do we find?*  
-We find that at the beginning, our classifier has similar performance than adding “usual” follow-up targets. In this case, the usual follow-up targets are from ZTF TNS reported ones. But after adding ~60 new objects, our system recommends better objects to follow-up to improve the accuracy, efficiency of classification. A win that can save us one and a half nights of observation compared to 5.3 nights of other approaches.
-
-![Metrics](images/accuracy.png)
-
-_Evolution of classification metrics as a function of time from the FINK AL strategy (orange) and using all TNS reported ZTF classifications (blue)._
-
-While doing this we don’t only select supernovae, our usual objects for training sets, but also microlensing events, AGNs, stars, etc… quite different from usual follow-up! 
-
-
-You can see these results and more in our paper [Moller *et al.*, 2025](https://arxiv.org/abs/2502.19555).
-
-
+This work is part of the PhD thesis, [*Designing novel Machine Learning techniques to address the volume and complexity of the Rubin LSST data:separation of blended galaxies and transients classification in alert streams*](https://theses.fr/s299080), by Dr. Biswajit Biswas, defended at Université Paris sciences et lettres, 2024.
 
