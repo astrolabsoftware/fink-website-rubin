@@ -25,7 +25,7 @@ To facilitate the construction of filters and the selection of fields, we have i
 
 <img src="images/download_fields.png" width="100%" height="100%" style="display: block; margin: auto;" />
 
-The documentation for the service has been updated accordingly: https://fink-broker.readthedocs.io/en/latest/services/data_transfer
+The documentation for the service has been updated accordingly: https://fink-broker.readthedocs.io/en/latest/services/data_transfer. Note that we recommend users to upgrade [fink-client](https://github.com/astrolabsoftware/fink-client) to version 9.0.
 
 ## Observability tab
 
