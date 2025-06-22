@@ -57,10 +57,10 @@ We are now using [nifty-ls](https://github.com/flatironinstitute/nifty-ls) to co
 
 ### Additional information from Gaia
 
-We now include Gaia information about variability in each alert packet. The two fields `phot_variable_flag` (`gaiaVarFlag`) and `Class` (called `gaiaClass`) were added.
+We now include Gaia information about variability in each alert packet. The two fields `phot_variable_flag` (`gaiaVarFlag`) and `Class` (called `gaiaClass`) were added. Thanks [steventgk](https://github.com/steventgk) and the LSST Variable Stars and Milky Way group for suggesting the addition!
 
 ## Solar system object
 
-A new Phase Curve model, called sfHG1G2, was added. The model is described in https://arxiv.org/abs/2503.05412. It is a single fit across all apparitions/oppositions, where the fitted H values can vary for each opposition, but G1 and G2 remain the same for all. This means we fit N+2 parameters, where N is the number of oppositions.
+A new Phase Curve model, called sfHG1G2, was added. The model is described in [Colazo et al 2025](https://arxiv.org/abs/2503.05412). It is a single fit across all apparitions/oppositions, where the fitted H values can vary for each opposition, but G1 and G2 remain the same for all. This means we fit N+2 parameters, where N is the number of oppositions.
 
 <img src="images/sfhg1g2.png" width="100%" height="100%" style="display: block; margin: auto;" />
