@@ -7,17 +7,17 @@ cardimage: portal_v8.png
 We are delighted to announce the release of Fink Science Portal version 8. 
 <!--more-->
 
-There are many new functionalities with respect to vesion 6, including observability tab, and a brand new Data Transfer interface. Release notes can be found at: 
+There are many new functionalities with respect to version 6, including observability tab, and a brand new Data Transfer interface. Release notes can be found at: 
 - https://github.com/astrolabsoftware/fink-science-portal/releases/tag/7.0
 - https://github.com/astrolabsoftware/fink-science-portal/releases/tag/8.0
 
 ## Data Transfer
 
-The major change in this release is the new interface for the Data Transfer service. In preparation for Rubin, we aimed to make it easier for users to access alert data. We understand that during the initial months, the templates will be gradually developed, and the Fink science module will need to adapt. As a result, the alert data may not be fully science-ready. However, we believe that users should have seamless access to the data to continue preparing for the analysis of the Rubin alert stream and to enhance Fink processing quickly.
+The major change in this release is the new interface for the Data Transfer service https://fink-portal.org/download. In preparation for Rubin, we aimed to make it easier for users to access alert data. We understand that during the initial months, the templates will be gradually developed, and the Fink science module will need to adapt. As a result, the alert data may not be fully science-ready. However, we believe that users should have seamless access to the data to continue preparing for the analysis of the Rubin alert stream and to enhance Fink processing quickly.
 
 The new Data Transfer service offers the following features:
 
-- Select any observing night(s) for different survey (ZTF, and forthcoming LSST).
+- Select any observing night(s) for various surveys (ZTF, Elasticc simulation, and forthcoming LSST).
 - Apply a variety of filters, including Fink-derived classes, nightly filters, or any other arbitrary conditions on alert fields.
 - Define the specific alert content to be retrieved.
 
@@ -57,7 +57,7 @@ We are now using [nifty-ls](https://github.com/flatironinstitute/nifty-ls) to co
 
 ### Additional information from Gaia
 
-We now include Gaia information about variability in each alert packet. The two fields `phot_variable_flag` (`gaiaVarFlag`) and `Class` (called `gaiaClass`) were added. Thanks [steventgk](https://github.com/steventgk) and the LSST Variable Stars and Milky Way group for suggesting the addition!
+We now include more Gaia information about variability in each alert packet from the xmatch service at [Strasbourg astronomical Data Center](https://cdsweb.u-strasbg.fr/). The two fields `phot_variable_flag` (called `gaiaVarFlag`) and `Class` (called `gaiaClass`) were added. Thanks [steventgk](https://github.com/steventgk) and the LSST Variable Stars and Milky Way group for suggesting the addition!
 
 ## Solar system object
 
