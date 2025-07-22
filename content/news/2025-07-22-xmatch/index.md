@@ -4,7 +4,7 @@ date: 2025-07-22
 cardimage: xmatch.jpg
 ---
 
-We are pleased to announce a new service that crossmatches any catalog of sources against all Fink-processed alert data at scale
+We are pleased to announce a new service that crossmatches any catalog of sources against all Fink-processed alert data at scale.
 <!--more-->
 
 ## Rationale
@@ -22,19 +22,19 @@ r = requests.post(
 data = r.json()
 ```
 
-However, this method works efficiently for a limited number of positions. What if one has thousands of sources for which they would like to check if there are alerts nearby? And what if in addition to match ID, one would like to have lightcurve data? As there are more than 200 million entries in the alert database, this is not a trivial task!
+However, this method works efficiently for a limited number of positions. What if one has thousands of sources for which they would like to check if there are alerts nearby? And what if in addition to match IDs, one would like to have lightcurve data? As there are more than 200 million entries in the Fink alert database, this is not a trivial task!
 
-We could have designed a special database table indexed by position or used clever techniques like those employed in the [xMatch service](http://cdsxmatch.u-strasbg.fr/xmatch/doc/) at CDS. However, we wanted to reuse the existing Fink data infrastructure as much as possible without additional development. In Fink, data is exposed in two places: the datalake and the database. The database is what the Fink API example above uses. We utilize an index table based on HEALPix indices (`nside = 128`) to efficiently find matches. However, like any database, it is efficient for random access but not as effective for handling large chunks of data at once.
+We could have used clever techniques like those employed in the [xMatch service](http://cdsxmatch.u-strasbg.fr/xmatch/doc/) at CDS, or rely on things like HEALPix Alchemy with a relational database. However, we wanted to reuse the existing Fink data infrastructure as much as possible without additional development. In Fink, data is exposed in two places: the datalake (files) and the database (non-relational database). The database is what the Fink API example above uses. We utilize an index table based on HEALPix indices (`nside = 128`) to efficiently find matches. However, like any database, it is efficient for random access but not as effective for handling large chunks of data at once.
 
 On the other hand, the Fink datalake contains all processed alerts in Parquet files, partitioned by time (year/month/day). This datalake is already used in the context of the Data Transfer service, as it efficiently exposes large chunks of data and enables users to express complex queries through the interface with Apache Spark, a distributed computing framework used internally in Fink. Therefore, we have decided to use the datalake again as the primary source of data.
 
 ## Fink xmatch service
 
-The Fink xmatch service is accessible from the Science Portal at https://fink-portal.org/xmatch. This is a guided process, very similar to the Data Transfer service. First, the user has the possibility to upload a catalog of sources.
+The Fink xmatch service is accessible from the Science Portal at https://fink-portal.org/xmatch. This is a guided process, very similar to the Data Transfer service. First, the user has the possibility to upload a catalog of sources:
 
 <img src="images/catalog.png" width="100%" height="100%" style="display: block; margin: auto;" />
 
-The service can read catalogs in csv, parquet, or votable formats. Note that the total number of sources is displayed on the left ring, and the maximum number of rows is 100,000 for the first version of the service. We also provide a preview of the first 10 rows. The user needs to specify which columns to choose for right ascension and declination in the J2000 coordinate system, as well as the (unique) identifier. The format of the coordinates can be in decimal degrees or in HMS/DMS.
+The service can read catalogs in `csv`, `parquet`, or `votable` formats. Note that the total number of sources is displayed on the left ring, and the maximum number of rows is 100,000 for the initial version of the service. We also provide a preview of the first 10 rows. The user needs to specify which columns to choose for right ascension and declination in the J2000 coordinate system, as well as the (unique) identifier. The format of the coordinates can be in decimal degrees or in HMS/DMS.
 
 You can also visualise the overlap between the catalog of sources and the ZTF sky coverage (based on DR7) by simply clicking on the `Crossmatch Sky Map` button:
 
