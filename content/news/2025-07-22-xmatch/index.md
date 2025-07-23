@@ -30,7 +30,7 @@ On the other hand, the Fink datalake contains all processed alerts in Parquet fi
 
 ## Fink xmatch service
 
-The Fink xmatch service is accessible from the Science Portal at https://fink-portal.org/xmatch. This is a guided process, very similar to the Data Transfer service. First, the user has the possibility to upload a catalog of sources:
+The Fink xmatch service is accessible from the Science Portal at [https://fink-portal.org/xmatch](https://fink-portal.org/xmatch) (with [online documentation](https://fink-broker.readthedocs.io/en/latest/services/xmatch/)). This is a guided process, very similar to the Data Transfer service. First, the user has the possibility to upload a catalog of sources:
 
 <img src="images/catalog.png" width="100%" height="100%" style="display: block; margin: auto;" />
 
