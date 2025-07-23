@@ -1,7 +1,7 @@
 ---
 title: Searching for kilonovae with Fink
 date: 2025-07-14
-cardimage: xx
+cardimage: kn.jpg
 ---
 
 Since the dawn of multi-messenger astronomy, with the detection of gravitational wave (GW) event [GW170817](https://en.wikipedia.org/wiki/GW170817), the community has been in pursuit of detecting more of their electromagnetic (EM) counterparts known as kilonovae (KNe). For this purpose, large regions need to be scanned in a few days to look for EM counterparts within the localization obtained from GW signals. The survey strategy of the upcoming Large Survey of Space and Time (LSST) will answer this need. To prepare for the arrival of LSST, we have developed within Fink a fast transient classification algorithm to process precursor data from the Zwicky Transient Facility.
