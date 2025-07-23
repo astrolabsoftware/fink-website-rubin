@@ -71,7 +71,7 @@ pdf = pd.read_parquet("fxmatch_ztf_2025-07-22_534049")
 
 ## Technical considerations
 
-When the user submits a job, the request is sent to the Fink Apache Spark cluster at the VirtualData cloud. Each xmatch job is granted 32 cores. The user catalog of sources is uploaded to HDFS, and the xmatch is performed locally on each executor (no table join). For information, here are some expected performances for an input catalog of 75,000 rows (the size of the input catalog does not matter much):
+When the user submits a job, the request is sent to the Fink Apache Spark cluster at the VirtualData cloud. Each xmatch job is granted 32 cores and 64GB RAM. The user catalog of sources is uploaded to HDFS, and the xmatch is performed locally on each executor (no table join). For information, here are some expected performances for an input catalog of 75,000 rows (the size of the input catalog does not matter much):
     
 | Years spanned | Input number of Fink alerts (in millions) | Execution time (in minutes) |
 |---------------|-------------------------------------------|------------------------------|
