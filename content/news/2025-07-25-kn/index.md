@@ -1,6 +1,6 @@
 ---
 title: Searching for kilonovae with Fink
-date: 2025-07-14
+date: 2025-07-25
 cardimage: kn.jpg
 ---
 
