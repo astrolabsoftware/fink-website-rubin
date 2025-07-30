@@ -84,7 +84,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 * **Israel Institute of Technology**: A. Michaelis  
 
-#### Italia  
+#### Italy  
 
 * **INAF - Osservatorio Astronomico di Roma**: E. Brocato, S. Piranomonte  
 * **INFN**: G. Greco  
