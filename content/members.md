@@ -24,6 +24,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Argentina
 
+* **Facultad de Matemática, Astronomía, Física y Computación**: A. Carignano  
 * **International Center for Advanced Studies, Physical Sciences Institute, San Martin University**: M. Makler
 * **UNAHUR/CONICET**: G. J. M. Luna
 
@@ -40,7 +41,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 * **Centro Brasileiro de Pesquisas Físicas**: C.R. De Bom, J.P. Correia de França, B. Fraga, J.C. Rodríguez Ramírez, A. Santos, G.S.M. Teixeira
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
-* **Instituto de Astronomia, Geofísica e Ciências Atmosféricas - Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
+* **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 * **Instituto Nacional de Pesquisas Espaciais**: C. V. Rodrigues
 * **Observatório Nacional**:  L. Nakazono
 
@@ -63,11 +64,11 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/CC-IN2P3**: F. Hernandez
 * **CNRS/CDS, Observatoire Astronomique de Strasbourg, Université de Strasbourg**: A. Nebot Gomez-Moran
 * **CNRS/CPPM, Aix Marseille Université**: D. Fouchez
-* **CNRS/IJCLab, Université Paris-Saclay**: R. Le Montagner, N. Leroy, M. Moniez, J. Neveu
+* **CNRS/IJCLab, Université Paris-Saclay**: J. Biteau, R. Le Montagner, N. Leroy, M. Moniez, J. Neveu, B. Soullard  
 * **CNRS/IRAP, Université Paul Sabatier**: M.L. Lanza, N. Webb, H. Yang
 * **CNRS/LAM, Aix Marseille Université**: S. Blondin
 * **CNRS/LAPP, Université Grenoble-Alpes, Université Savoie Mont Blanc**: D. Boutigny
-* **CNRS/LPCA, Université Clermont Auvergne**: J. Cohen-Tanugi, E. Gangler, C. Mur
+* **CNRS/LPCA, Université Clermont Auvergne**: J. Cohen-Tanugi, E. Gangler
 * **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
 * **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, K. O. Xenos
 
@@ -77,8 +78,18 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### India
 
-* **BITS Pilani**: Y. Gondhalekar  
+* **BITS Pilani**: Y. Gondhalekar
 
+#### Israel  
+
+* **Israel Institute of Technology**: A. Michaelis  
+
+#### Italy  
+
+* **INAF - Osservatorio Astronomico di Roma**: E. Brocato, S. Piranomonte  
+* **INFN**: G. Greco  
+* **University of Trieste**: F. Longo
+  
 #### Portugal
 
 * **Instituto Superior Tecnico, Universidade de Lisboa**: S. Gonzalez-Gaitan
@@ -102,7 +113,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Sweden
 
-* **Stockholm University**: E. Russeil
+* **Stockholm University**: P. Pessi, E. Russeil
 
 #### Switzerland
 
