@@ -135,6 +135,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### United Kingdom
 
+* **Lancaster University**: M. Smith  
 * **The Alan Turing Institute**: T. Allam Jr.
 * **Queen's University Belfast**: C. Angus
 * **University of Edinburgh**: R. Williams
