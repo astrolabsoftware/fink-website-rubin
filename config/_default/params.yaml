@@ -4,7 +4,7 @@
 
 author:
   name: 
-  image: Fink_PrimaryLogo_WEB.png
+  image: Fink_PrimaryLogo_WEB.svg
   greeting: 
   icon: 
 
@@ -27,4 +27,4 @@ links:
 
 title: Fink broker
 description: "Fink Broker collaboration website"
-image: Fink_PrimaryLogo_WEB.png
+image: Fink_PrimaryLogo_WEB.svg
