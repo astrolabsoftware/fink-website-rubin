@@ -68,7 +68,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/CC-IN2P3**: F. Hernandez
 * **CNRS/CDS, Observatoire Astronomique de Strasbourg, Université de Strasbourg**: A. Nebot Gomez-Moran
 * **CNRS/CPPM, Aix Marseille Université**: D. Fouchez
-* **CNRS/IJCLab, Université Paris-Saclay**: J. Biteau, J. E. Campagne, S. Dagoret, J. Hamo, R. Le Montagner, N. Leroy, M. Moniez, J. Neveu, B. Soullard  
+* **CNRS/IJCLab, Université Paris-Saclay**: J. Biteau, J. E. Campagne, S. Dagoret, J. Hamo, F. Maman, R. Le Montagner, N. Leroy, M. Moniez, J. Neveu, B. Soullard  
 * **CNRS/IRAP, Université Paul Sabatier**: O. Godet, M.L. Lanza, N. Webb, H. Yang
 * **CNRS/LAM, Aix Marseille Université**: S. Blondin
 * **CNRS/LAPP, Université Grenoble-Alpes, Université Savoie Mont Blanc**: D. Boutigny
@@ -99,6 +99,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### New Zealand
 
 * **University of Auckland**: P. Cowan
+
+#### Poland
+
+* **Institute Astronomical Observatory**: T. Kwiatkowski  
   
 #### Portugal
 
