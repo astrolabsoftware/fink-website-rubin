@@ -1,34 +1,46 @@
 {{ define "main" }}
   <div class="flex items-center justify-center">
-    <div class="mt-auto flex h-[75vh] flex-col items-center justify-center">
+    <div class="mt-auto flex flex-col items-center justify-center">
       {{/* Add image and site title */}}
       {{ $image := resources.GetMatch (print "**" .Site.Params.Author.image) }}
       {{ $name := .Site.Params.Author.name }}
       {{ $icon := .Site.Params.Author.icon }}
       {{ with $image }}
-          <img class="mb-1" src="{{ $image.RelPermalink }}" style="width: 100%; max-width: 700px" />
+          <img class="mb-1" src="{{ $image.RelPermalink }}" style="width: 100%; max-width: 700px; margin-bottom: -50px;" />
       {{ end }}
-
-      <div class="mt-2 flex flex-wrap items-center justify-center">
-        {{ range $links := .Site.Params.Links }}
-          {{ range $type, $data := $links }}
-            {{ $href := $data }}
-            {{ $icon := $type }}
-	    {{ $iconParts := split $icon "-" }}  <!-- Split the icon string -->
-            {{ $iconName := index $iconParts 0 }}  <!-- Get the right part -->
-	    {{ $iconLabel := index $iconParts 1 }}  <!-- Get the right part -->
-
-            {{ $iconPath := resources.Get (print "icons/" $iconName ".svg") }}
-            {{ with $iconPath }}
-              	<a class="link" href="{{ $href }}" target="_blank" rel="me noopener noreferrer" aria-label="{{ $iconLabel }}" title="{{ $iconLabel }}">
-               	<span class="link_svg">
-               	{{ $iconPath.Content | safeHTML }}
-               	</span>
-            	</a>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
     </div>
+  </div>
+  <div class="justify-center flex">
+<div class="container-links">
+	<div class="card">
+		<div class="container-survey">
+  <a href="#" class="link-survey-svg">
+    {{ $ztf := resources.GetMatch (print "**" .Site.Params.Author.ztf) }}
+    {{ with $ztf }}
+    <img class="mb-1" src="{{ $ztf.RelPermalink }}" style="" />
+    {{ end }}
+  </a>
+  <a href="https://ztf.fink-portal.org" target="_blank" class="link-survey"><div class="text2">PORTAL</div></a>
+  <a href="https://api.ztf.fink-portal.org" target="_blank" class="link-survey"><div class="text2">API</div></a>
+  <a href="https://doc.ztf.fink-broker.org" target="_blank" class="link-survey"><div class="text2">DOC</div></a>
+</div>
+</div>
+<div class="card">
+<div class="container-survey">
+  <a href="#" class="link-survey-svg">
+    {{ $rubin := resources.GetMatch (print "**" .Site.Params.Author.rubin) }}
+    {{ with $rubin }}
+    <img class="mb-1" src="{{ $rubin.RelPermalink }}" style="" />
+    {{ end }}
+  </a>
+  <a href="https://lsst.fink-portal.org" target="_blank" class="link-survey"><div class="text2">PORTAL</div></a>
+  <a href="https://api.lsst.fink-portal.org" target="_blank" class="link-survey"><div class="text2">API</div></a>
+  <a href="https://doc.lsst.fink-broker.org" target="_blank" class="link-survey"><div class="text2">DOC</div></a>
+</div>
+</div>
+  <p class="text">HOVER<br /><br />FOR<br /><br />LINKS</p>
+  <div class="cover-links"></div>
+</div>
+
   </div>
 {{ end }}

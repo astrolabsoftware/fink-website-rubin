@@ -3,22 +3,12 @@
 ############################
 
 author:
-  name: 
+  name:
   image: Fink_PrimaryLogo_WEB.svg
-  greeting: 
-  icon: 
-
-############################
-## Links
-############################
-
-# <icon image name>-<hover display>
-links:
-  #- website-Science Portal: https://fink-portal.org
-  - link-Documentation: https://fink-broker.readthedocs.io/en/latest
-  - github-Github: https://github.com/astrolabsoftware
-  - linkedin-Linkedin: https://www.linkedin.com/in/fink-broker-72b92134b/ 
-  - email-contact: mailto:contact@fink-broker.org 
+  ztf: ztf.svg
+  rubin: logo_rubin.svg
+  greeting:
+  icon:
 
 
 ###############################

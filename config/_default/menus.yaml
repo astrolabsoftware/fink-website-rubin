@@ -6,9 +6,6 @@ main:
 - name: Home
   url: /
   weight: 10
-- name: Portal
-  url: https://fink-portal.org
-  weight: 11
 - name: News
   url: /news/
   weight: 20
