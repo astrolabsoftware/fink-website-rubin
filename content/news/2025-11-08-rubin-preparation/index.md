@@ -27,7 +27,7 @@ To make this change even easier, you can find all relevant links on the Fink web
 
 <img src="images/website.png" align="center" width="200%" height="200%" style="display: block; margin: auto;" />
 
-The documentation website for LSST is already live and contains some initial information. It will be updated as we progress through commissioning, providing you time to familiarize yourself with the LSST alert schema and its differences from ZTF.
+The documentation website for LSST is already live, and it will be updated as we progress through commissioning, providing you time to familiarize yourself with the LSST alert schema and its differences from ZTF.
 
 We will keep you informed through the next stages, and as soon as data become available. 
 
