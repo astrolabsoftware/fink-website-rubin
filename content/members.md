@@ -33,7 +33,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Australian National University**: C. Lidman, B. Schmidt, J. Soon
 * **Curtin University**: A. Goodwin, H. Roxburgh
 * **Monash University**: R. Hirai (also RIKEN, Japan), F. Hu
-* **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender,  O. V. Velazquez, T. Waterson, S. Webb
+* **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender, S. Stevenson,  O. V. Velazquez, T. Waterson, S. Webb
 * **The University of Adelaide**: S. Einecke
 * **The University of Melbourne**: K. Auchettl
 * **The University of Sydney**: D. Dobie, K. Rose
