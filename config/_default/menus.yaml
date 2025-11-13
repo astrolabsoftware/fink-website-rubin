@@ -21,3 +21,6 @@ main:
 - name: About
   url: /about/
   weight: 60
+- name: Citing
+  url: /cite
+  weight: 70

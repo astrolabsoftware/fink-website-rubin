@@ -37,7 +37,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 ## Publication Policy
 
-Each Fink community project is responsible for defining its own publication policy (writing process, authorship, ...), and scientific papers written inside projects are not obliged to enter a collaboration-wide review. However, a project may voluntarily ask for collaboration review, in each case a temporary team of reviewers will be assembled by the management team to perform such tasks. All papers and deliverables should cite Fink and include the acknowledgment:
+Each Fink community project is responsible for defining its own publication policy (writing process, authorship, ...), and scientific papers written inside projects are not obliged to enter a collaboration-wide review. However, a project may voluntarily ask for collaboration review, in each case a temporary team of reviewers will be assembled by the management team to perform such tasks. All papers and deliverables should [cite](https://fink-broker.org/cite) Fink and include the acknowledgment:
 
 ```
 This work was developed within the Fink community and made use of the Fink 
