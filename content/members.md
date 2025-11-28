@@ -30,7 +30,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **UNSAM/Instituto Sábato/ICIFI/ICAS/CONICET**: K. Nowogrodzki  
 
 #### Australia
-* **Australian National University**: C. Lidman, B. Schmidt, J. Soon
+* **Australian National University**: C. Lidman, B. Schmidt, J. Soon, L. Rauf
 * **Curtin University**: A. Goodwin, H. Roxburgh
 * **Monash University**: R. Hirai (also RIKEN, Japan), F. Hu
 * **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender, S. Stevenson,  O. V. Velazquez, T. Waterson, S. Webb
@@ -40,12 +40,17 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Brazil
 
-* **Centro Brasileiro de Pesquisas Físicas**: C.R. De Bom, J.P. Correia de França, B. Fraga, P. A. Darc de Matos, J.C. Rodríguez Ramírez, A. Santos, G.S.M. Teixeira
+* **Centro Brasileiro de Pesquisas Físicas**: C.R. De Bom, J.P. Correia de França, B. Fraga, P. A. Darc de Matos, J.C. Rodríguez Ramírez, A. Santos, G.S.M. Teixeira  
 * **Instituto Nacional de Pesquisas Espaciais**: C. V. Rodrigues
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
 * **Observatório Nacional**:  L. Nakazono
 * **Observatório do Valongo**: M. Grossi, L. Ribeiro
+* **Universidade Federal do Rio Grande do Sul**: L. Selegar  
 * **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
+
+#### Chile
+
+* **International Gemini Observatory, NSF NOIRLab**: S. Panda  
 
 #### China
 
