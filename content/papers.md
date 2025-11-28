@@ -23,6 +23,16 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2025
 
 <div class="text-with-image">
+    <a href="https://arxiv.org/abs/2511.19016" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Lost and Found - A gallery of overlooked optical nuclear transients from the ZTF archive,</b> <i>  Erwan Quintin, Etienne Russeil, Miguel Llamas Lanza, Sergey Karpov, et al</i>
+</div>
+
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2510.12932" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Strategy for identifying Vera C. Rubin Observatory kilonova candidates for targeted gravitational-wave searches,</b> <i>  Simon Stevenson, Anais Möller and Jade Powell</i>
+</div>
+
+<div class="text-with-image">
     <a href="https://arxiv.org/abs/2507.17499" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b>Early Identification of Optical Tidal Disruption Events: A science module for the Fink broker,</b> <i> Miguel Llamas Lanza, Sergey Karpov, et al</i>
 </div>
