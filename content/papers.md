@@ -145,7 +145,12 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### Selected papers featuring Fink
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2501.06968" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2512.02136" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>AT2022zod: An Unusual Tidal Disruption Event in an Elliptical Galaxy at Redshift 0.11,</b> <i>Kristen Dage et al.</i>
+</div>
+
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2501.06968" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://www.aanda.org/articles/aa/full_html/2025/06/aa52099-24/aa52099-24.html" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>AAS2RTO: Automated Alert Streams to Real-Time Observations: Preparing for rapid follow-up of transient objects in the era of LSST,</b> <i>Aidan Sedgewick et al.</i>
 </div>
 
