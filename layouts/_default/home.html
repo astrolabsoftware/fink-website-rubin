@@ -1,4 +1,17 @@
 {{ define "main" }}
+  {{ $christmasCSS := resources.Get "css/christmas.css" }}
+  {{ if $christmasCSS }}
+    <style>
+      {{ $christmasCSS.Content | safeCSS }}
+    </style>
+  {{ end }}
+  {{ $reindeer := resources.GetMatch "**christmas/santa_2.gif" }}
+  {{ with $reindeer }}
+    <div class="christmas-reindeer-container">
+      <div class="christmas-reindeer-line"></div>
+      <img class="christmas-reindeer-gif" src="{{ $reindeer.RelPermalink }}" alt="Reindeer" />
+    </div>
+  {{ end }}
   <div class="flex items-center justify-center">
     <div class="mt-auto flex flex-col items-center justify-center">
       {{/* Add image and site title */}}
