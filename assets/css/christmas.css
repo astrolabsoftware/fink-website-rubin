@@ -1,0 +1,32 @@
+/* Styles pour l'animation du renne de Noël */
+.christmas-reindeer-container {
+  position: absolute;
+  top: 70px;
+  width: 100%;
+  height: 80px;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.christmas-reindeer-line {
+  display: none;
+}
+
+.christmas-reindeer-gif {
+  position: absolute;
+  width: 65px;
+  height: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  animation: christmas-reindeer-move 8s linear infinite;
+}
+
+@keyframes christmas-reindeer-move {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -65px;
+  }
+}
+

@@ -4,7 +4,7 @@
 
 author:
   name:
-  image: Fink_PrimaryLogo_WEB.svg
+  image: christmas/FINK_christmas_logo.png
   ztf: ztf.svg
   rubin: logo_rubin.svg
   greeting:
@@ -17,4 +17,4 @@ author:
 
 title: Fink broker
 description: "Fink Broker collaboration website"
-image: Fink_PrimaryLogo_WEB.svg
+image: christmas/FINK_christmas_logo.png
