@@ -5,6 +5,7 @@
 author:
   name:
   image: christmas/FINK_christmas_logo.png
+  normalImage: Fink_PrimaryLogo_WEB.svg
   ztf: ztf.svg
   rubin: logo_rubin.svg
   greeting:
@@ -17,4 +18,10 @@ author:
 
 title: Fink broker
 description: "Fink Broker collaboration website"
-image: christmas/FINK_christmas_logo.png
+image: Fink_PrimaryLogo_WEB.svg
+
+###############################
+## Christmas Theme
+###############################
+
+enableChristmasTheme: false
