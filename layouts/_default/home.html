@@ -1,8 +1,23 @@
 {{ define "main" }}
+  {{ if .Site.Params.enableChristmasTheme }}
+    {{ $christmasCSS := resources.Get "css/christmas.css" }}
+    {{ if $christmasCSS }}
+      <style>
+        {{ $christmasCSS.Content | safeCSS }}
+      </style>
+    {{ end }}
+    {{ $santa := resources.GetMatch "**christmas/santa_2.gif" }}
+    {{ with $santa }}
+      <div class="christmas-reindeer-container">
+        <img class="christmas-reindeer-gif" src="{{ $santa.RelPermalink }}" alt="Santa" />
+      </div>
+    {{ end }}
+  {{ end }}
   <div class="flex items-center justify-center">
     <div class="mt-auto flex flex-col items-center justify-center">
       {{/* Add image and site title */}}
-      {{ $image := resources.GetMatch (print "**" .Site.Params.Author.image) }}
+      {{ $imagePath := cond .Site.Params.enableChristmasTheme .Site.Params.Author.image .Site.Params.Author.normalImage }}
+      {{ $image := resources.GetMatch (print "**" $imagePath) }}
       {{ $name := .Site.Params.Author.name }}
       {{ $icon := .Site.Params.Author.icon }}
       {{ with $image }}

@@ -1,0 +1,38 @@
+/* Styles for the Christmas animation */
+:root {
+  /* Height of the site header. Update this variable if the header height changes. */
+  --site-header-height: 70px;
+  /* Animation properties */
+  --christmas-gif-width: 65px;
+  --christmas-container-height: 80px;
+  --christmas-animation-duration: 8s;
+}
+
+.christmas-reindeer-container {
+  position: absolute;
+  /* Position below the site header */
+  top: var(--site-header-height);
+  width: 100%;
+  height: var(--christmas-container-height);
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.christmas-reindeer-gif {
+  position: absolute;
+  width: var(--christmas-gif-width);
+  height: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  animation: christmas-reindeer-move var(--christmas-animation-duration) linear infinite;
+}
+
+@keyframes christmas-reindeer-move {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: calc(-1 * var(--christmas-gif-width));
+  }
+}
+
