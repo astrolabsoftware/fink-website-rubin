@@ -45,7 +45,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
 * **Observatório Nacional**:  L. Nakazono
 * **Observatório do Valongo**: M. Grossi, L. Ribeiro
-* **Universidade Federal do Rio Grande do Sul**: L. Selegar  
+* **Universidade Federal do Rio Grande do Sul**: P. Floriano, P. S. Lopes, A. Chies Santos, L. Selegar  
 * **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 
 #### Chile
@@ -72,7 +72,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/APC, Université Paris-Diderot**: A. Coleiro, Z. Lin
 * **CNRS/CC-IN2P3**: F. Hernandez
 * **CNRS/CDS, Observatoire Astronomique de Strasbourg, Université de Strasbourg**: A. Nebot Gomez-Moran
-* **CNRS/CPPM, Aix Marseille Université**: D. Fouchez
+* **CNRS/CPPM, Aix Marseille Université**: D. Fouchez, B. O. Sanchez
 * **CNRS/IJCLab, Université Paris-Saclay**: J. Biteau, J. E. Campagne, S. Dagoret, J. Hamo, F. Maman, R. Le Montagner, N. Leroy, M. Moniez, J. Neveu, B. Soullard  
 * **CNRS/IRAP, Université Paul Sabatier**: O. Godet, M.L. Lanza, N. Webb, H. Yang
 * **CNRS/LAM, Aix Marseille Université**: S. Blondin
@@ -81,6 +81,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/LPNHE,Sorbonne Université**: J.-P. Lenain  
 * **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
 * **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, A. V. K. Sergeyev, O. Xenos
+* **CNRS/UTINAM, Université Marie et Louis Pasteur**: E. Bachelet
 * **Université Paris Cité**: G. G. Palacios
 
 #### Germany
@@ -97,7 +98,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Italy  
 
-* **INAF - Osservatorio Astronomico di Roma**: E. Brocato, S. Piranomonte  
+* **INAF - Osservatorio Astronomico di Roma**: E. Brocato, S. Piranomonte, F. Onori  
 * **INFN**: G. Greco  
 * **University of Trieste**: F. Longo
 
@@ -125,6 +126,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### Spain
 
 * **European Space Astronomy Centre**: E. Quintin
+* **Industry**: M. B. Corominas
 
 #### South Korea
 
@@ -155,7 +157,6 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### USA
 
 * **Carnegie Mellon University**: A. Palmese
-* **IPAC**: E. Bachelet
 * **University of North Carolina at Chapel Hill**: H. Corbett
 
 
