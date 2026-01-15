@@ -81,7 +81,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/LPNHE,Sorbonne Université**: J.-P. Lenain  
 * **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
 * **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, A. V. K. Sergeyev, O. Xenos
-* **Université Marie et Louis Pasteur**: E. Bachelet  
+* **CNRS/UTINAM, Université Marie et Louis Pasteur**: E. Bachelet
 * **Université Paris Cité**: G. G. Palacios
 
 #### Germany
