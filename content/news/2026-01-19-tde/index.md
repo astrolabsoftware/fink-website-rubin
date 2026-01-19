@@ -1,6 +1,6 @@
 ---
 date: "2026-01-19"
-title: When stars and black-holes meet: the Fink TDE module
+title: "When stars and black-holes meet: the Fink TDE module"
 cardimage: TDE.jpg
 ---
 
