@@ -1,19 +1,42 @@
 ---
-date: "2026-01-19"
-title: "When stars and black-holes meet: the Fink TDE module"
-cardimage: TDE.jpg
+date: "2026-02-27"
+title: "First Rubin alerts successfully streamed through Fink"
+cardimage: XX.jpg
 ---
 
-A tidal disruption event (TDE) occurs when a star passes too close to a supermassive black hole and is torn apart by its gravity, producing a luminous, transient flare. They are rare phenomena that are still largely not understood and for which each additional example is very valuable.
+On 25 February 2026, 1:30am (CET) Fink started to process public alerts produced by the Vera C. Rubin Observatory. 
+
+The system proved to be resilient, reaching almost 500 requests per minute moments after  the start of public operations. 
 <!--more-->
 
-Given the expected number of transient alerts from ZTF, and soon Rubin, there is a need for automated and robust classification methods. Ideally, it would be even more optimal to identify them before their peak brightness, when spectroscopic follow-up is still possible. In this context, an early TDE classifier was developed within Fink to search for them within the ZTF alert stream.  
+At the same time, 11:30 am (AEDT), a group of Fink members were gathered  at Swinburne University - Australia, in  a hybrid meeting to collectively inspect candidates and select targets to be sent for spectroscopic confirmation by the Siding Spring Observatory.  
 
-The model was trained and validated on TNS-classified ZTF light curves, which include a wide range of contaminant classes such as supernovae and active galactic nuclei. The classifier achieves 76% recall, despite the limited available information before peak. We show that, out of the known TDEs that pass the selection cuts, half of them are flagged as TDEs before halfway through their rise, proving the feasibility of early classification. The implementation details have been published in Llamas [Lanza & Karpov *et al.* 2025](https://www.aanda.org/articles/aa/full_html/2026/01/aa56558-25/aa56558-25.html).
+<img src="images/fink-hub-group.jpg" align="center" width="70%" height="700%" style="display: block; margin: auto;" />
 
-<img src="images/fig_lc_ZTF22abzajwl.png" align="center" width="70%" height="700%" style="display: block; margin: auto;" />
+The meeting was attended by researchers and students from Swinburne. Online participants included Fink members from other universities in Australia, New Zealand and France. 
 
-A companion paper ([Quintin et al. 2025](https://arxiv.org/abs/2511.19016)) presents a catalogue of every promising TDE candidate that was discovered by the model. In total, 19 optical nuclear transients are reported, which include rare behaviours such as multiple peaks (see Figure) and flares in active galaxies. In particular, an exceptionally long-lived transient (over 5 years) was discovered. The analysis further warns about the high risk of machine learning models overlooking some events.
+This was the first time a complete Rubin observation cycle was put in practice, involving a network of engineers, data scientists, domain experts and observers. All coordinating actions in a global effort that worked flawlessly. 
 
-Efforts are now being directed toward the adaptation of the science module for LSST data, which should hide a considerable number of TDEs.
+
+<img src="images/zoom_fink-hub-oz.png" align="center" width="70%" height="700%" style="display: block; margin: auto;" />
+
+The community aspect of Fink’s  *community driven* mission shined its brightest under pressure. 
+
+The data was generated in Chile and sent to a data center in the USA, subsequently arriving at CC-IN2P3, France. There, it interacted with filters and machine learning models developed by domain experts from all over the world before being delivered to personal computers of users located in more than 20 countries. The entire data journey lasted not more than a couple of minutes. 
+
+The processing continued for approximately 6 hours, resulting in  approximately 800 000 alerts being successfully consumed in the first night of public operations. The data contained a large variety of sources, including around 50 supernova candidates,  and many solar system objects.
+
+Beyond the undeniable technological achievement marked by this event, the most impressive feature of the day was the manifestation of beautiful human connections among our members, built through the first 7 years of this adventure. 
+
+We are up to the task ahead: an unprecedented decade of discoveries for transient astronomy. 
+
+Taking this experience as evidence of the human and scientific potential enclosed in the Fink community, we can brace ourselves for exciting few years ahead!
+
+Let it begin.
+
+You can access all LSST/Fink services through: [https://lsst.fink-portal.org/](https://lsst.fink-portal.org/)
+
+
+ 
+
 
