@@ -22,19 +22,29 @@ This was the first time a complete Rubin observation cycle was put in practice, 
 
 The community aspect of Fink’s  *community driven* mission shined its brightest under pressure. 
 
-The data was generated in Chile and sent to a data center in the USA, subsequently arriving at CC-IN2P3, France. There, it interacted with filters and machine learning models developed by domain experts from all over the world before being delivered to personal computers of users located in more than 20 countries. The entire data journey lasted not more than a couple of minutes. 
+The data was generated in Chile and sent to a data center in the USA, subsequently arriving at [CC-IN2P3](https://cc.in2p3.fr/), France. There, it interacted with filters and machine learning models developed by domain experts from all over the world before being delivered to personal computers of users located in more than 20 countries. The entire data journey lasted not more than a couple of minutes. 
 
 The processing continued for approximately 6 hours, resulting in  approximately 800 000 alerts being successfully consumed in the first night of public operations. The data contained a large variety of sources, including around 50 supernova candidates,  and many solar system objects.
 
 Beyond the undeniable technological achievement marked by this event, the most impressive feature of the day was the manifestation of beautiful human connections among our members, built through the first 7 years of this adventure. 
 
-We are up to the task ahead: an unprecedented decade of discoveries for transient astronomy. 
+We can safely say we are upt to the task ahead: an unprecedented decade of discoveries for transient astronomy. 
 
 Taking this experience as evidence of the human and scientific potential enclosed in the Fink community, we can brace ourselves for exciting few years ahead!
 
 Let it begin.
 
+*******
+
 You can access all LSST/Fink services through: [https://lsst.fink-portal.org/](https://lsst.fink-portal.org/)
+
+Fink is supported by LSST-France and [CNRS](https://www.cnrs.fr/en)/[IN2P3](https://www.in2p3.cnrs.fr/fr).
+
+In the media:  
+
+CNRS: [Getting closer to the stars: Fink, a French tool for tracking transient phenomena across the observable Universe](https://www.cnrs.fr/en/press/getting-closer-stars-fink-french-tool-tracking-transient-phenomena-across-observable-universe)  
+
+The conversation: [20 billion galaxies: new survey of the sky will reveal the universe in unprecedented detail](https://theconversation.com/20-billion-galaxies-new-survey-of-the-sky-will-reveal-the-universe-in-unprecedented-detail-273574)
 
 
  
