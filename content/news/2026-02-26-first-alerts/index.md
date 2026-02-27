@@ -1,7 +1,7 @@
 ---
 date: "2026-02-27"
 title: "First Rubin alerts successfully streamed through Fink"
-cardimage: XX.jpg
+cardimage: first_alerts.jpg
 ---
 
 On 25 February 2026, 1:30am (CET) Fink started to process public alerts produced by the Vera C. Rubin Observatory. 
