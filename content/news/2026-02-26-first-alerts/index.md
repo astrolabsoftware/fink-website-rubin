@@ -24,13 +24,13 @@ The community aspect of Fink’s  *community driven* mission shined its brightes
 
 The data was generated in Chile and sent to a data center in the USA, subsequently arriving at [CC-IN2P3](https://cc.in2p3.fr/), France. There, it interacted with filters and machine learning models developed by domain experts from all over the world before being delivered to personal computers of users located in more than 20 countries. The entire data journey lasted not more than a couple of minutes. 
 
-The processing continued for approximately 6 hours, resulting in  approximately 800 000 alerts being successfully consumed in the first night of public operations. The data contained a large variety of sources, including around 50 supernova candidates,  and many solar system objects.
+The processing continued for at least 6 hours, resulting in  approximately 800 000 alerts being successfully consumed in the first night of public operations. The data contained a large variety of sources, including around 50 supernova candidates,  and many solar system objects.
 
 Beyond the undeniable technological achievement marked by this event, the most impressive feature of the day was the manifestation of beautiful human connections among our members, built through the first 7 years of this adventure. 
 
-We can safely say we are upt to the task ahead: an unprecedented decade of discoveries for transient astronomy. 
+We can safely say we are up to the challenge proposed by Rubin: an unprecedented decade of discoveries for transient astronomy. 
 
-Taking this experience as evidence of the human and scientific potential enclosed in the Fink community, we can brace ourselves for exciting few years ahead!
+Taking this experience as evidence of the human and scientific potential enclosed in the Fink community, we can brace ourselves for some exciting few years ahead.
 
 Let it begin.
 
