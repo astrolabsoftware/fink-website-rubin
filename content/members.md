@@ -30,13 +30,15 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **UNSAM/Instituto Sábato/ICIFI/ICAS/CONICET**: K. Nowogrodzki  
 
 #### Australia
-* **Australian National University**: C. Lidman, B. Schmidt, J. Soon, L. Rauf
-* **Curtin University**: A. Goodwin, H. Roxburgh
-* **Monash University**: R. Hirai (also RIKEN, Japan), F. Hu
+* **Australian National University**: C. Lidman, B. Martin, B. Schmidt, J. Soon, L. Rauf
+* **Australia Telescope National Facility**: G. Anderson
+* **Curtin University**: A. Bahramian, A. Bulich, A. Goodwin, H. Roxburgh
+* **Monash University**: R. Hirai (also RIKEN, Japan), F. Hu, M. Shrestha
 * **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender, S. Stevenson,  O. V. Velazquez, T. Waterson, S. Webb
 * **The University of Adelaide**: S. Einecke
-* **The University of Melbourne**: K. Auchettl
+* **The University of Melbourne**: K. Auchettl, V. Di Marco  
 * **The University of Sydney**: D. Dobie, K. Rose
+* **The University of Tasmania**: C. Mihalenko
 
 #### Brazil
 
@@ -45,7 +47,8 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Laboratório Nacional de Astrofísica**: I. Jesus Lima
 * **Observatório Nacional**:  L. Nakazono
 * **Observatório do Valongo**: M. Grossi, L. Ribeiro
-* **Universidade Federal do Rio Grande do Sul**: P. Floriano, P. S. Lopes, A. Chies Santos, L. Selegar  
+* **Universidade Federal do Espirito Santo**: W. Ramirez
+* **Universidade Federal do Rio Grande do Sul**: P. Floriano, V. Güez, P. S. Lopes, A. Chies Santos, G. Scheffel 
 * **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 
 #### Chile
@@ -79,7 +82,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/LAPP, Université Grenoble-Alpes, Université Savoie Mont Blanc**: D. Boutigny
 * **CNRS/LPCA, Université Clermont Auvergne**: J. Cohen-Tanugi, E. Gangler
 * **CNRS/LPNHE,Sorbonne Université**: J.-P. Lenain  
-* **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson
+* **CNRS/LPSC, Université Grenoble-Alpes**: J. Bregeon, M. Masson, H. Sedlacek
 * **CNRS/OCA, Lagrange, Université Côte d'Azur**: B. Carry, A. V. K. Sergeyev, O. Xenos
 * **CNRS/UTINAM, Université Marie et Louis Pasteur**: E. Bachelet
 * **Université Paris Cité**: G. G. Palacios
@@ -98,17 +101,19 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Italy  
 
-* **INAF - Osservatorio Astronomico di Roma**: E. Brocato, S. Piranomonte, F. Onori  
+* **INAF - Osservatorio Astronomico di Roma**: E. Brocato, E. Pappalardo, S. Piranomonte, F. Onori  
 * **INFN**: G. Greco  
 * **University of Trieste**: F. Longo
 
 #### New Zealand
 
 * **University of Auckland**: P. Cowan
+* **University of Canterbury**: J. Patterson  
 
 #### Poland
 
-* **Institute Astronomical Observatory**: T. Kwiatkowski  
+* **Institute Astronomical Observatory**: M. Colazo, T. Kwiatkowski
+* **National Center for Nuclear Research**: P. Pessi  
   
 #### Portugal
 
@@ -116,7 +121,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Russian Federation
 
-* **Lomonosov Moscow State University**: M. V. Kornilov, T. Pshenichniy, M. Pruzhinskaya
+* **Lomonosov Moscow State University**: V. Goncharova, M. V. Kornilov, T. Pshenichniy, M. Pruzhinskaya
 * **Industry**: I. Ippolitov
 
 #### Slovenia
@@ -134,7 +139,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 
 #### Sweden
 
-* **Stockholm University**: P. Pessi, E. Russeil
+* **Stockholm University**: E. Russeil
 
 #### Switzerland
 
@@ -157,7 +162,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### USA
 
 * **Carnegie Mellon University**: A. Palmese
+* **Industry**: B. Stastny  
+* **University of Hawaii**: C. Dodds
 * **University of North Carolina at Chapel Hill**: H. Corbett
+* **University of Washington**: L. Jones
 
 
 ## Collaborators
