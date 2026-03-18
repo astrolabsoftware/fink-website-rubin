@@ -162,6 +162,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### USA
 
 * **Carnegie Mellon University**: A. Palmese
+* **Industry**: B. Stastny  
 * **University of Hawaii**: C. Dodds
 * **University of North Carolina at Chapel Hill**: H. Corbett
 * **University of Washington**: L. Jones
