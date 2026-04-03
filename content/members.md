@@ -34,7 +34,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Australia Telescope National Facility**: G. Anderson
 * **Curtin University**: A. Bahramian, A. Bulich, A. Goodwin, H. Roxburgh
 * **Monash University**: R. Hirai (also RIKEN, Japan), F. Hu, M. Shrestha
-* **Swinburne University fo Technology**: N. Van Bemmel, R. Seikel, L. Steinwender, S. Stevenson,  O. V. Velazquez, T. Waterson, S. Webb
+* **Swinburne University fo Technology**: N. Van Bemmel, B. Leicester, R. Seikel, L. Steinwender, S. Stevenson,  O. V. Velazquez, T. Waterson, S. Webb
 * **The University of Adelaide**: S. Einecke
 * **The University of Melbourne**: K. Auchettl, V. Di Marco  
 * **The University of Sydney**: D. Dobie, K. Rose
@@ -48,7 +48,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Observatório Nacional**:  L. Nakazono
 * **Observatório do Valongo**: M. Grossi, L. Ribeiro
 * **Universidade Federal do Espirito Santo**: W. Ramirez
-* **Universidade Federal do Rio Grande do Sul**: P. Floriano, V. Güez, P. S. Lopes, A. Chies Santos, G. Scheffel 
+* **Universidade Federal do Rio Grande do Sul**: P. Floriano, B. Lorrany de Castro Araujo, V. Güez, P. S. Lopes, A. Chies Santos, G. Scheffel 
 * **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 
 #### Chile
@@ -76,6 +76,7 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **CNRS/CC-IN2P3**: F. Hernandez
 * **CNRS/CDS, Observatoire Astronomique de Strasbourg, Université de Strasbourg**: A. Nebot Gomez-Moran
 * **CNRS/CPPM, Aix Marseille Université**: D. Fouchez, B. O. Sanchez
+* **CNRS/IAP, Sorbonne Université**: P. Tisserand    
 * **CNRS/IJCLab, Université Paris-Saclay**: J. Biteau, J. E. Campagne, S. Dagoret, J. Hamo, F. Maman, R. Le Montagner, N. Leroy, M. Moniez, J. Neveu, B. Soullard  
 * **CNRS/IRAP, Université Paul Sabatier**: O. Godet, M.L. Lanza, N. Webb, H. Yang
 * **CNRS/LAM, Aix Marseille Université**: S. Blondin
@@ -155,13 +156,13 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **The Alan Turing Institute**: T. Allam Jr.
 * **Queen's University Belfast**: C. Angus
 * **University of Edinburgh**: R. Williams
-* **University of Hertfordshire**: R. S. de Souza
+* **University of Hertfordshire**: S. Shenoy, R. S. de Souza
 * **University of Oxford**: H. Stevance
 * **University of Portsmouth**: A. S. de Murieta  
 
 #### USA
 
-* **Carnegie Mellon University**: A. Palmese
+* **Carnegie Mellon University**: K. Malanchev, A. Palmese
 * **Industry**: B. Stastny  
 * **University of Hawaii**: C. Dodds
 * **University of North Carolina at Chapel Hill**: H. Corbett
