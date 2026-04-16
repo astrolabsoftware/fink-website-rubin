@@ -51,6 +51,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 * **Universidade Federal do Rio Grande do Sul**: P. Floriano, B. Lorrany de Castro Araujo, V. Güez, P. S. Lopes, A. Chies Santos, G. Scheffel 
 * **Universidade de São Paulo**: R. Ruiz Valença, G. Schwarz
 
+#### Canada
+
+* **McGill University**: M. Chamma, K. Sand
+
 #### Chile
 
 * **International Gemini Observatory, NSF NOIRLab**: S. Panda  
@@ -95,6 +99,10 @@ You can contact us at contact(at)fink-broker.org for more information.
 #### India
 
 * **BITS Pilani**: Y. Gondhalekar
+
+#### Ireland  
+
+* **University College Dublin**: E. Connolly  
 
 #### Israel  
 
