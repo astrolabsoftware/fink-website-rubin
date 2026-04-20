@@ -1,5 +1,5 @@
 ---
-date: "2026-01-20"
+date: "2026-04-20"
 title: "Anomaly detection in Fink"
 cardimage: anomaly.png
 ---
