@@ -45,7 +45,7 @@ List of publications from the Fink collaboration and the larger astronomy commun
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2510.12932" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2510.12932" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.3847/1538-4357/ae244e" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=ApJ&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Strategy for identifying Vera C. Rubin Observatory kilonova candidates for targeted gravitational-wave searches,</b> <i>  Simon Stevenson, Anais Möller and Jade Powell</i>
 </div>
 
