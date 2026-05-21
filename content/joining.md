@@ -7,9 +7,9 @@ date: 2025-04-04
 
 If you want to know more about Fink and our recent releases and science results, you can follow us on [Linkedin](https://www.linkedin.com/in/fink-broker-72b92134b/) and check our [news](https://fink-broker.org/post/). 
 
-You can join the Fink collaboration by filling this [form](https://forms.gle/CmvH8vsyyv4AUTpy8). You will be then subscribed to our mailing list and receive relevant news and information about our general meetings. 
+You can use Fink products without being a Fink member! If you are academic staff or a student working with a Fink member, you can join the Fink collaboration by filling this [form](https://forms.gle/CmvH8vsyyv4AUTpy8). You will be then subscribed to our mailing list and receive relevant news and information about our general meetings. 
 
-If you have already a science project in mind (not necessary to join Fink), you can also submit a Fink community project.
+If you have already a science project in mind (not necessary to join Fink), you can also submit a Fink community project or contact us by email.
 
 ## What are Fink community projects?
 
