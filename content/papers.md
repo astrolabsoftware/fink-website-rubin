@@ -37,6 +37,11 @@ List of publications from the Fink collaboration and the larger astronomy commun
     <b>LStein: A new approach to visualizing sparse 2.5-dimensional data,</b> <i>L. Steinwender, et al</i>
 </div>
 
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2605.22407" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Hostless extragalactic transients in Fink: Results from the ELEPHANT pipeline</b> <i>R. Durgesh, et al</i>
+</div>
+
 ### 2025
 
 <div class="text-with-image">
