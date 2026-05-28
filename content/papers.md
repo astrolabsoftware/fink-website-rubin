@@ -24,17 +24,22 @@ List of publications from the Fink collaboration and the larger astronomy commun
 
 <div class="text-with-image">
     <a href="https://arxiv.org/abs/2605.24095" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>Fast and Flexible Characterisation of Astronomical Light Curves Using Multi-Time Attention</b> <i>Y. Gondhalekar, et al</i>
+    <b>Fast and Flexible Characterisation of Astronomical Light Curves Using Multi-Time Attention, </b> <i>Yash Gondhalekar, Anais Möller, Paula Sánchez-Sáez</i>
+</div>
+
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2605.24095" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b> Synergy between the Cherenkov Telescope Array Observatory and the Vera C. Rubin Observatory, </b> <i> J. Biteau, J. Hamo, A. Mikhno, J. Peloton, J. -P. Lenain</i>
 </div>
 
 <div class="text-with-image">
     <a href="https://arxiv.org/abs/2605.22407" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>Hostless extragalactic transients in Fink: Results from the ELEPHANT pipeline</b> <i>R. Durgesh, et al</i>
+    <b>Hostless extragalactic transients in Fink: Results from the ELEPHANT pipeline, </b> <i>R. Durgesh, P. J. Pessi, E. E. O. Ishida, J. Peloton</i>
 </div>
 
 <div class="text-with-image">
     <a href="https://arxiv.org/abs/2604.24034" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>LStein: A new approach to visualizing sparse 2.5-dimensional data,</b> <i>L. Steinwender, et al</i>
+    <b>LStein: A new approach to visualizing sparse 2.5-dimensional data,</b> <i>Lukas Steinwender, Anais Möller, Christopher J. Fluke</i>
 </div>
 
 <div class="text-with-image">
@@ -50,13 +55,18 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2025
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2511.19016" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2511.19016" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1051/0004-6361/202558465" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Lost and Found - A gallery of overlooked optical nuclear transients from the ZTF archive,</b> <i>  Erwan Quintin, Etienne Russeil, Miguel Llamas Lanza, Sergey Karpov, et al</i>
 </div>
 
 <div class="text-with-image">
     <a href="https://arxiv.org/abs/2510.12932" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.3847/1538-4357/ae244e" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=ApJ&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Strategy for identifying Vera C. Rubin Observatory kilonova candidates for targeted gravitational-wave searches,</b> <i>  Simon Stevenson, Anais Möller and Jade Powell</i>
+</div>
+
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2509.21109" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.22323/1.501.0931" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PoS/ICRC&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <b> A new era for multi-wavelength studies of blazars with Rubin and the CTAO,</b> <i>  Julian Hamo, Jonathan Biteau and Julien Peloton</i>
 </div>
 
 <div class="text-with-image">
@@ -77,13 +87,13 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2024
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2412.05061" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://cds.cern.ch/record/2884741" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Moriond VHEPU&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2412.05061" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://cds.cern.ch/record/2884741" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=VHEPU&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Search for Orphan Gamma-Ray Burst Afterglows with the Vera C. Rubin Observatory and the alert broker Fink</b>,
     <i>Marina Masson, Johan Bregeon</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_01039.pdf" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=CHEP2023&color=blue&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_01039.pdf" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=CHEP&color=blue&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b>Multidatabase, the Future of the data storage in Particle Physics and Astronomy</b>, <i>Julius Hrivnác, Julien Peloton</i>
 </div>
 
@@ -170,6 +180,11 @@ List of publications from the Fink collaboration and the larger astronomy commun
 
 
 ### Selected papers featuring Fink
+
+<div class="text-with-image">
+    <a href="https://doi.org/10.3847/2515-5172/ae67fe" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=RNAAS&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
+    <b>Characterizing a Super-fast Rotating Asteroid in Rubin Observatory First Alerts,</b><i> Jacob A. Kurlander et al.</i>
+</div>
 
 <div class="text-with-image">
     <a href="https://arxiv.org/abs/2512.02136" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
