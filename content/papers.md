@@ -23,23 +23,23 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2026
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2603.29511" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>Anomaly detection in Fink. I. Discovery, follow-up, and classification of unusual sources,</b> <i>M. V. Pruzhinskaya, et al</i>
+    <a href="https://arxiv.org/abs/2605.22407" target="_blank"><img src="https://img.shields.io/static/v1?                                                     label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Hostless extragalactic transients in Fink: Results from the ELEPHANT pipeline</b> <i>R. Durgesh, et al</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2604.14761" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>NOMAI : A real-time photometric classifier for superluminous supernovae identification. A science module for the Fink broker,</b> <i>E. Russeil, et al</i>
-</div>
-
-<div class="text-with-image">
-    <a href="https://arxiv.org/abs/2604.24034" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2604.24034" target="_blank"><img src="https://img.shields.io/static/v1?                                                     label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b>LStein: A new approach to visualizing sparse 2.5-dimensional data,</b> <i>L. Steinwender, et al</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2605.22407" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
-    <b>Hostless extragalactic transients in Fink: Results from the ELEPHANT pipeline</b> <i>R. Durgesh, et al</i>
+    <a href="https://arxiv.org/abs/2604.14761" target="_blank"><img src="https://img.shields.io/static/v1?                                                     label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>NOMAI : A real-time photometric classifier for superluminous supernovae identification. A science module for the Fink broker,</b> <i>E. Russeil, et al</i>
+</div>
+
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2603.29511" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Anomaly detection in Fink. I. Discovery, follow-up, and classification of unusual sources,</b> <i>M. V. Pruzhinskaya, et al</i>
 </div>
 
 ### 2025
