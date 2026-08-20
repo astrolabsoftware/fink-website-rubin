@@ -180,6 +180,10 @@ List of publications from the Fink collaboration and the larger astronomy commun
 
 
 ### Selected papers featuring Fink
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2608.17568" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>NMMA-Astro-COLIBRI: An Automated Light-Curve Supernovae Classification Service in the Multi-Survey Era,</b><i> R. Weizmann Kiendrebeogo et al.</i>
+</div>
 
 <div class="text-with-image">
     <a href="https://doi.org/10.3847/2515-5172/ae67fe" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=RNAAS&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
