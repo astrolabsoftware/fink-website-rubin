@@ -27,7 +27,7 @@ Check the client is correctly installed by running:
 finkctl
 ```
 
-You should see the help menu, together with the version of the client. Your credentials remain valid, but **if you are coming from the client version 11, you will need a few changes for the client to work again.** Get more information online from the [ZTF](https://doc.ztf.fink-broker.org/services/fink_client/) or [LSST](https://doc.lsst.fink-broker.org/services/fink_client/) documentation websites.
+You should see the help menu, together with the version of the client. Your credentials remain valid, but **if you are coming from the client version 11, you will need a few changes for the client to work again.** Get more information online from the [ZTF](https://doc.ztf.fink-broker.org/services/fink_client/) or [LSST](https://doc.lsst.fink-broker.org/services/fink_client/) documentation websites. As usual, contact us if something is not working (Slack, email, or [GitHub issue](https://github.com/astrolabsoftware/fink-client/issues))!
 
 ## Fink bots
 
