@@ -249,7 +249,8 @@
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
   description: >-
-    This design was proposed as an option for the front design of the [Fink t-shirt](../../../assets/fink_tshirt.png).
+    This design was proposed as an option for the front design of the 
+    [![Fink T-shirt](/images/fink_tshirt.png)](/images/fink_tshirt.png).
   background: "#15284F"
   downloads:
     - format: PNG
