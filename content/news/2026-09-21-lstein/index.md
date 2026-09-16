@@ -1,23 +1,18 @@
 ---
-date: "2026-07-08"
-title: "NOMAI: following the signal to superluminous supernovae"
+date: "2026-09-21"
+title: "LStein: an alternative view on multiband lightcurves"
 cardimage: nomai_.png
 ---
 
-Superluminous supernovae (SLSNe) are among the most luminous transients known, yet they remain poorly understood because of their rarity and intrinsic heterogeneity.  
+Extracting the full scientific potential from large photometric surveys demands richer data visualization than current methods provide.  
 <!--more-->
 
-Efficiently identifying them within the millions of nightly alerts produced by modern time-domain surveys is therefore essential for increasing the number of confirmed events.  
+The [Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST)](https://www.lsst.org/) exemplifies this challenge: its filter-based sampling of the light spectrum is intentionally sparse, yet the subtle details encoded in filter spacing, overlap, and sensitivity profiles carry critical information that standard light curve visualization discards.
+  
+To include this missing information we developed [LStein](https://lstein.readthedocs.io/en/latest/), an open-source, deterministic visualization approach: A set of lightcurves is placed in a combined angular coordinate system using azimuthal offsets to encode the sparse wavelength dimension. Using [LStein](https://lstein.readthedocs.io/en/latest/) you can display the relation between passbands (sparse dimension) while still showing individual light curves in a comparable manner. This enables researchers to include wavelength information in interpretations of the physical nature of signals.
 
-To address this challenge, we developed [NOMAI](https://arxiv.org/abs/2604.14761), a real-time machine-learning classifier dedicated to the identification of SLSN candidates within the ZTF alert stream. Without requiring a spectroscopic redshift, the classifier extracts physically motivated features from the light curves using the [Rainbow](https://fink-broker.org/news/2025-06-10-rainbow/) and [SALT2](https://www.aanda.org/component/article?access=bibcode&bibcode=&bibcode=2007A%2526A...466...11GFUL) models before classifying each incoming alert with an [XGBoost algorithm](https://medium.com/low-code-for-advanced-data-science/xgboost-explained-a-beginners-guide-095464ad418f).  
+<img src="images/lstein_plots.png" align="center" width="70%" height="700%" style="display: block; margin: auto;" />
 
-Trained on a curated set of labeled ZTF transients, including more than 200 SLSNe, NOMAI reaches 66% completeness and 58% purity on the benchmark dataset. The classifier was designed to place particular emphasis on completeness, ensuring that the majority of SLSNe are recovered while maintaining a practical level of contamination for spectroscopic follow-up.  
+An incorporation as an alternative way to explore light curves in the [Fink LSST science portal](https://lsst.fink-portal.org) is currently underway. You can also use [LStein](https://lstein.readthedocs.io/en/latest/) directly in your project as it is available on [GitHub](https://github.com/TheRedElement/LStein/tree/main )! Planned features for the future include additional interactive elements and different layout options. 
 
-NOMAI is easily usable through the Fink ZTF science portal via the “SLSN candidate” class. During its first two months of operation, it recovered **22 of the 24** SLSNe publicly reported on the [Transient Name Server](https://www.wis-tns.org/), demonstrating its ability to efficiently identify promising candidates in real-time.  
-
-
-<img src="images/slsn.jpg" align="center" width="70%" height="700%" style="display: block; margin: auto;" />
-
-The next objective for NOMAI is its adaptation to the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST), where automated photometric classification will become indispensable. This adaptation is currently underway and will be the subject of future work.  
-
-The complete analysis is presented in [Russeil *et al.*, 2026](https://arxiv.org/abs/2604.14761).
+A detailed description of [LStein](https://lstein.readthedocs.io/en/latest/) can be found in [Steinwender *et al.* (2026)](https://doi.org/10.1016/j.ascom.2026.101161).
