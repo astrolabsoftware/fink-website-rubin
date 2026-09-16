@@ -5,4 +5,5 @@ layout: artist-profiles
 gallery_key: artists
 ---
 
-The artists who have contributed to Fink's visual identity.
+<p style="text-align: center;">We are proud to showcase the work of graphic designers who have 
+  contributed to construction of Fink visual identity over the years. </p>
