@@ -16,11 +16,15 @@
 #                shown as a "Portfolio" link under the bio
 
 - image: Anastasiia_Voloshina.jpg
-  title: "Anastasiya Voloshina"
-  description: "Anastasiya Voloshina description"
+  title: "Anastasiia Voloshina"
+  description: >-
+    Anastasiia (Nastya) has a master degree in Astronomy and a passion for graphical design. Among her recent work, 
+    she was responsive for desinging Fink t-shirt, banner, posters and icons.
   artist_url: "https://www.behance.net/anastasvoloshi2"
 
 - image: justin_burks.jpg
   title: "Justin Burks"
-  description: "Justin Burks description"
+  description: >-
+    Justin is an award-winning independent graphic designer and illustrator. He has extensive experience 
+    in creating visual identities. He created the official Fink logo and some of its variations.
   artist_url: "https://www.justinburksdesign.com/"
