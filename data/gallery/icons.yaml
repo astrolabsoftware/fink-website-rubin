@@ -232,10 +232,11 @@
 
 - image: t-shirt-logo/SNIa.png
   subsection: "T-shirt icons"
-  title: "SNIa logo"
+  title: "Supernova Ia (SNIa)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -249,8 +250,7 @@
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
   description: >-
-    This design was proposed as an option for the front design of the 
-    [![Fink T-shirt](/images/fink_tshirt.png)](/images/fink_tshirt.png).
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -260,10 +260,11 @@
 
 - image: t-shirt-logo/TDE.png
   subsection: "T-shirt icons"
-  title: "TDE logo"
+  title: "Tidal Disruption Event (TDE)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -273,10 +274,11 @@
 
 - image: t-shirt-logo/Asteroid_noTransperensy.png
   subsection: "T-shirt icons"
-  title: "Asteroid logo"
+  title: "Asteroid"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -286,10 +288,11 @@
 
 - image: t-shirt-logo/AGN_noTransperensy.png
   subsection: "T-shirt icons"
-  title: "AGN logo"
+  title: "Active Galactic Nucleus (AGN)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -299,10 +302,11 @@
 
 - image: t-shirt-logo/DDS_explosion.png
   subsection: "T-shirt icons"
-  title: "DDS logo"
+  title: "Supernova Ia Double Degenerate scenario"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -312,10 +316,11 @@
 
 - image: t-shirt-logo/YSO.png
   subsection: "T-shirt icons"
-  title: "YSO logo"
+  title: "Young Stellar Object (YSO)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -325,10 +330,11 @@
 
 - image: t-shirt-logo/Anomaly.png
   subsection: "T-shirt icons"
-  title: "Anomaly logo"
+  title: "Anomaly"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -338,10 +344,11 @@
 
 - image: t-shirt-logo/Eclipsing.png
   subsection: "T-shirt icons"
-  title: "Eclipsing logo"
+  title: "Eclipsing binary"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -351,10 +358,11 @@
 
 - image: t-shirt-logo/Microlensing.png
   subsection: "T-shirt icons"
-  title: "Microlensing logo"
+  title: "Microlensing"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -364,10 +372,11 @@
 
 - image: t-shirt-logo/Menu.png
   subsection: "T-shirt icons"
-  title: "Search bar logo"
+  title: "Search bar"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
