@@ -39,7 +39,8 @@
   title: "Fink primary logo"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Fink official logo, developed on October/2022.
   background: "#FFFFFF"
   downloads:
     - format: PNG
@@ -51,7 +52,8 @@
   title: "Fink secondary logo"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Fink secondary logo, developed in October/2022.
   background: "#FFFFFF"
   downloads:
     - format: PNG
@@ -63,7 +65,8 @@
   title: "Fink Brazil logo"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Fink-Brazil logo, developed in May/2024.
   background: ""
   downloads:
     - format: PNG
@@ -75,7 +78,8 @@
   title: "Fink logo stylised"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Stylish version of the Fink logo, used in the back of our first apparel, the Fink t-shirt.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -87,14 +91,18 @@
   title: "OzFink logo"
   artist: "Anais Möller"
   artist_url: "https://anaismoller.github.io/"
-  description: ""
+  description: >-
+    Logo developed for the first [OzFink Workshop](https://fink-broker.org/news/2023-05-05_ozfink/), 
+    which took place in 3-5 May 2023 at Swinburne University of 
+    Technology in Melbourne - Australia.
   background: "#15284F"
 
 - image: horizontal_color_chart.png
   title: "Fink color chart"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Details on the color pallette used in the official Fink logo.
   background: "#FFFFFF"
   wide: true
   downloads:
