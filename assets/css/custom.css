@@ -587,6 +587,18 @@
   margin-bottom: 1.5rem;
 }
 
+.vi-modal-item-desc a {
+  color: #f5622e;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
+.vi-modal-item-desc a:hover,
+.vi-modal-item-desc a:focus-visible {
+  color: #d94d1a;
+  text-decoration-thickness: 2px;
+}
+
 @media (prefers-color-scheme: dark) {
   .vi-modal-item-title,
   .vi-modal-item-desc {
