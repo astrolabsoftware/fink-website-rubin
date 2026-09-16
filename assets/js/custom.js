@@ -39,6 +39,12 @@ document.addEventListener("DOMContentLoaded", function () {
     var descTemplate = item.querySelector(".vi-item-description");
     modalDesc.innerHTML = descTemplate ? descTemplate.innerHTML : "";
 
+    modalDesc.querySelectorAll("a").forEach(function (link) {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+    });
+
+
     modalDownloads.innerHTML = "";
     var downloads = [];
     try {
