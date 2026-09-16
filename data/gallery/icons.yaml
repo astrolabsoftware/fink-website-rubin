@@ -35,10 +35,12 @@
 
 - image: minimalist_logo/SNIa.png
   subsection: "Science portal icons"
-  title: "SNIa minimalist logo"
+  title: "minimalist Supernova Ia (SNIa)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    A popular single degenerate progenitor scenario for SNIa.
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26abpbqtk).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -48,10 +50,11 @@
 
 - image: minimalist_logo/SNCC.png
   subsection: "Science portal icons"
-  title: "SNCC minimalist logo"
+  title: "minimalist Core-colapse Supernova (CCSN)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26abkjbgk).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -61,10 +64,11 @@
 
 - image: minimalist_logo/SLSN.png
   subsection: "Science portal icons"
-  title: "SLSN minimalist logo"
+  title: "minimalist Super-luminous Supernova (SLSN)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26ablsebw).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -74,10 +78,11 @@
 
 - image: minimalist_logo/TDE.png
   subsection: "Science portal icons"
-  title: "TDE minimalist logo"
+  title: "minimalist Tidal Disruption Event (TDE)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF22aaqqapy).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -87,10 +92,11 @@
 
 - image: minimalist_logo/Asteroid.png
   subsection: "Science portal icons"
-  title: "Asteroid minimalist logo"
+  title: "minimalist Asteroid"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26aafnluy).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -100,10 +106,11 @@
 
 - image: minimalist_logo/AGN.png
   subsection: "Science portal icons"
-  title: "AGN minimalist logo"
+  title: "minimalist Active Galactic Nucleus (AGN)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF19aawnapi).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -113,10 +120,10 @@
 
 - image: minimalist_logo/DDSN.png
   subsection: "Science portal icons"
-  title: "DDS minimalist logo"
+  title: "minimalist Double Degenerate scenario Supernova Ia"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: "A possible progenitor scenario for supernovae Ias."
   background: "#15284F"
   downloads:
     - format: PNG
@@ -126,10 +133,11 @@
 
 - image: minimalist_logo/YSO.png
   subsection: "Science portal icons"
-  title: "YSO minimalist logo"
+  title: "minimalist Young Stellar Object (YSO)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF18abpfcoy).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -139,10 +147,11 @@
 
 - image: minimalist_logo/Anomaly.png
   subsection: "Science portal icons"
-  title: "Anomaly minimalist logo"
+  title: "minimalist Anomaly"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Statistically distinct objects within a night.
   background: "#15284F"
   downloads:
     - format: PNG
@@ -152,10 +161,11 @@
 
 - image: minimalist_logo/EclBin.png
   subsection: "Science portal icons"
-  title: "Eclipsing binary minimalist logo"
+  title: "minimalist Eclipsing binary"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF18aabgcex).
   background: "#15284F"
   downloads:
     - format: PNG
@@ -165,7 +175,7 @@
 
 - image: minimalist_logo/MicroLens.png
   subsection: "Science portal icons"
-  title: "Microlensing binary minimalist logo"
+  title: "minimalist Microlensing"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
   description: ""
@@ -178,10 +188,12 @@
 
 - image: minimalist_logo/Unknown.png
   subsection: "Science portal icons"
-  title: "Unknown logo"
+  title: "Unknown"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This icon is assigned to objects for which no classification was determined. 
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26abkbfml).
   background: "#15284F"
   downloads:
     - format: PNG
