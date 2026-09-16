@@ -201,6 +201,34 @@
     - format: Adobe
       url: "https://drive.google.com/file/d/1EblkczSS_33XI4LPWva6uhFPR_GOOlh_/view?usp=drive_link"
 
+- image: minimalist_logo/Variable.png
+  subsection: "Science portal icons"
+  title: "minimalist Variable Star"
+  artist: "Anastasiya Voloshina"
+  artist_url: "https://www.behance.net/anastasvoloshi2"
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF19aadhbac).
+  background: "#15284F"
+  downloads:
+    - format: PNG
+      url: "https://drive.google.com/file/d/10Woy8dKK0CYGJ3CuObDKZ91n5N8OSDV4/view?usp=drive_link"
+    - format: Adobe
+      url: "https://drive.google.com/file/d/1hpF2x4j0Zwc34VegF4JKZ6YRFCRFMtJL/view?usp=drive_link"
+
+- image: minimalist_logo/Art.Sat.png
+  subsection: "Science portal icons"
+  title: "minimalist Artificial Satellite"
+  artist: "Anastasiya Voloshina"
+  artist_url: "https://www.behance.net/anastasvoloshi2"
+  description: >-
+    Example use in the ZTF science portal [here](https://ztf.fink-portal.org/ZTF26abvitgj).
+  background: "#15284F"
+  downloads:
+    - format: PNG
+      url: "https://drive.google.com/file/d/11cRJHqrHELy-mU6RL8Fi_2mug40FiDpe/view?usp=drive_link"
+    - format: Adobe
+      url: "https://drive.google.com/file/d/1i_8ZhtodtQjJmNZCtszRhwX_tVXy7bzV/view?usp=drive_link"
+
 
 - image: t-shirt-logo/SNIa.png
   subsection: "T-shirt icons"
@@ -217,10 +245,11 @@
 
 - image: t-shirt-logo/SNII.png
   subsection: "T-shirt icons"
-  title: "SNII logo"
+  title: "Supernova type II (SNII)"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    This design was proposed as an option for the front design of the [Fink t-shirt](../../../assets/fink_tshirt.png).
   background: "#15284F"
   downloads:
     - format: PNG
