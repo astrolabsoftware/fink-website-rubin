@@ -39,7 +39,9 @@
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
   wide: true
-  description: ""
+  description: >-
+    Tote bag made available for the first time during the [2023 OzFink Workshop](https://fink-broker.org/news/2023-05-05_ozfink/),
+    which took place between 3-5 May 2023 at Swinburne University of Technology, Melbourne - Australia.
   background: "#FFFFFF"
   downloads:
     - format: PDF
@@ -51,28 +53,41 @@
   title: "Fink t-shirts"
   artist: "Anastasiya Voloshina"
   artist_url: "https://www.behance.net/anastasvoloshi2"
-  description: ""
+  description: >-
+    Standardized back design and personalized front icon. First made available during the
+    [2025 Fink Collaboration meeting](https://indico.in2p3.fr/event/36303/), which took place 
+    between 16-18 July 2025 in Clermont Ferrand - France. Photographic records of the event can be found 
+    [here](https://photos.app.goo.gl/FMrakGCm9K5FWw2h7).
   background: "#FFFFFF"
 
 - image: fink_bottle.png
-  title: "Fink bottle v1"
+  title: "Silver Fink bottle"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    First model of water bottle, first made available during [2024 Fink Collaboration meeting](https://indico.in2p3.fr/event/30789/), 
+    which took place between 8-10 January 2024, at Laboratoire De Physique Des 2 Infinite Irène Joliot-Curie (IJCLab), Orsay - France.
   background: "#FFFFFF"
 
 - image: fink_bottles.png
-  title: "Fink bottle v2"
+  title: "Blue Fink bottle"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Second model of water bottle, first made available during the [Fink@World Workshop](https://indico.in2p3.fr/event/38946/)
+    which took place at [Institut Pascal](https://www.institut-pascal.universite-paris-saclay.fr/), 
+    Orsay - France, between 8-12 June 2026. Photographic records of the event can be found 
+    [here](https://photos.app.goo.gl/X4tNby4EAs8BEVBTA).
   background: "#FFFFFF"
 
 - image: fink_mug_white_bg.png
   title: "Fink mug"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Official Fink mug. It was printed for the first time just before the COVID pandemic. It was finally made available to
+    Fink members during the [first Fink Collaboration meeting](https://indico.in2p3.fr/event/26707/), 
+    which took place at Laboratoire d'Annecy De Physique Des Particules (LAPP), Annecy - France, between 19-20 May 2022.
   background: "#FFFFFF"
   downloads:
     - format: PNG
@@ -82,7 +97,11 @@
   title: "Fink havaianas"
   artist: "Justin Burks"
   artist_url: "https://www.justinburksdesign.com/"
-  description: ""
+  description: >-
+    Flip-flops made available during the [Fink-Brazil Workshop](https://indico.in2p3.fr/event/31068/page/3574-venue), 
+    which took place between 6-10 May 2024 at the 
+    Centro Brasileiro de Pesquisas Fisicas (CBPF), Rio de Janeiro - Brazil. Photographic records of the event can be found 
+    [here](https://photos.app.goo.gl/6pZdEtVXhTR1QZVV8).
   background: "#FFFFFF"
 
 
