@@ -23,12 +23,18 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2026
 
 <div class="text-with-image">
+    <a href="https://arxiv.org/abs/2606.17734" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>Shape, Orientation and Colors Combined approach for Asteroids (SOCCA), </b> <i>K. O. Xenos, B. Carry, J. Peloton, M. Mahlke, J. Berthier, P.-A. Mattei</i>
+</div>
+
+
+<div class="text-with-image">
     <a href="https://arxiv.org/abs/2605.24095" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b>Fast and Flexible Characterisation of Astronomical Light Curves Using Multi-Time Attention, </b> <i>Yash Gondhalekar, Anais Möller, Paula Sánchez-Sáez</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2605.24095" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2605.11709" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
     <b> Synergy between the Cherenkov Telescope Array Observatory and the Vera C. Rubin Observatory, </b> <i> J. Biteau, J. Hamo, A. Mikhno, J. Peloton, J. -P. Lenain</i>
 </div>
 
@@ -180,6 +186,10 @@ List of publications from the Fink collaboration and the larger astronomy commun
 
 
 ### Selected papers featuring Fink
+<div class="text-with-image">
+    <a href="https://arxiv.org/abs/2608.17568" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <b>NMMA-Astro-COLIBRI: An Automated Light-Curve Supernovae Classification Service in the Multi-Survey Era,</b><i> R. Weizmann Kiendrebeogo et al.</i>
+</div>
 
 <div class="text-with-image">
     <a href="https://doi.org/10.3847/2515-5172/ae67fe" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=RNAAS&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
