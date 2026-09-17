@@ -1,7 +1,7 @@
 ---
 date: "2026-09-21"
 title: "LStein: an alternative view on multiband lightcurves"
-cardimage: nomai_.png
+cardimage: lstein_card_2.jpeg
 ---
 
 Extracting the full scientific potential from large photometric surveys demands richer data visualization than current methods provide.  
