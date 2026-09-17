@@ -5,4 +5,4 @@ layout: gallery
 gallery_key: posters
 ---
 
-Posters made for conferences, workshops and outreach events.
+This gallery contains artwork develop to the Fink project and its events.

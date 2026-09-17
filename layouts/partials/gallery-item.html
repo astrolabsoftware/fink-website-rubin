@@ -26,12 +26,12 @@
     data-title="{{ .title }}"
     data-artist="{{ .artist }}"
     data-artist-url="{{ .artist_url }}"
-    data-description="{{ .description }}"
     data-downloads="{{ $downloads | jsonify }}"
     data-full="{{ $large.RelPermalink }}"
     data-background="{{ $background }}"
     style="grid-row-end: span {{ $span }};"
-  >
+    >
+    <template class="vi-item-description">{{ .description | markdownify }}</template>
     <span class="vi-item-frame" {{ with $background }}style="background-color: {{ . }};"{{ end }}>
       <img
         class="vi-item-img"

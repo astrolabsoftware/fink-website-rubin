@@ -35,8 +35,15 @@ document.addEventListener("DOMContentLoaded", function () {
         modalArtist.textContent = "by " + artist;
       }
     }
+    
+    var descTemplate = item.querySelector(".vi-item-description");
+    modalDesc.innerHTML = descTemplate ? descTemplate.innerHTML : "";
 
-    modalDesc.textContent = item.dataset.description || "";
+    modalDesc.querySelectorAll("a").forEach(function (link) {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+    });
+
 
     modalDownloads.innerHTML = "";
     var downloads = [];

@@ -5,4 +5,6 @@ layout: gallery
 gallery_key: icons
 ---
 
-Icons and small logos representing Fink science modules and mascots.
+<p style="text-align: center;">These icons were developed to illustrate the variety of science cases 
+  present in within Fink. Each one highlight a class of source, or progenitor, which might generate an alert. Examples of their placement are given 
+  in description within each card.</p>
