@@ -1,7 +1,7 @@
 ---
 date: "2026-04-20"
 title: "Anomaly detection in Fink"
-cardimage: anomaly.png
+cardimage: anomaly2.png
 ---
 
 The Fink anomaly detection pipeline has delivered its first-year science results, demonstrating how broker-level machine learning can be turned into real astrophysical discoveries when combined with expert validation and follow-up observations. 
