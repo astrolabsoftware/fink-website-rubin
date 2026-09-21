@@ -1,0 +1,30 @@
+# Visual Identity - Artists page
+#
+# This page is laid out differently from the other sections: one row per
+# artist, always showing a photo next to a bio, nothing to click. Add one
+# entry per artist:
+#   1. Drop a reasonably-sized photo (a few MB is fine, it is compressed
+#      automatically) into assets/
+#   2. Add a new block below pointing "image" at that filename.
+#
+# Fields:
+#   image        (required) filename inside assets/, the artist's photo.
+#                Displayed in a portrait (3:4) frame, cropped to fill it.
+#   title        (required) the artist's name
+#   description  (optional) a short bio, shown next to the photo
+#   artist_url   (optional) link to their website / socials / portfolio,
+#                shown as a "Portfolio" link under the bio
+
+- image: Anastasiia_Voloshina.jpg
+  title: "Anastasiia Voloshina"
+  description: >-
+    Anastasiia (Nastya) has a master degree in Astronomy and a passion for graphical design. Among her recent work, 
+    she was responsive for desinging Fink t-shirt, banner, posters and icons.
+  artist_url: "https://www.behance.net/anastasvoloshi2"
+
+- image: justin_burks.jpg
+  title: "Justin Burks"
+  description: >-
+    Justin is an award-winning independent graphic designer and illustrator. He has extensive experience 
+    in creating visual identities. He created the official Fink logo and some of its variations.
+  artist_url: "https://www.justinburksdesign.com/"
