@@ -23,7 +23,7 @@ List of publications from the Fink collaboration and the larger astronomy commun
 ### 2026
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2606.17734" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2606.17734" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1051/0004-6361/202660190" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>Shape, Orientation and Colors Combined approach for Asteroids (SOCCA), </b> <i>K. O. Xenos, B. Carry, J. Peloton, M. Mahlke, J. Berthier, P.-A. Mattei</i>
 </div>
 
@@ -44,12 +44,12 @@ List of publications from the Fink collaboration and the larger astronomy commun
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2604.24034" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2604.24034" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1016/j.ascom.2026.101161" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=ASCOM&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>LStein: A new approach to visualizing sparse 2.5-dimensional data,</b> <i>Lukas Steinwender, Anais Möller, Christopher J. Fluke</i>
 </div>
 
 <div class="text-with-image">
-    <a href="https://arxiv.org/abs/2604.14761" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a>
+    <a href="https://arxiv.org/abs/2604.14761" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=arxiv&color=critical&style=plastic&logo=fing&logoColor=white" alt="Description of image"></a><a href="https://doi.org/10.1051/0004-6361/202660399" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=AA&color=blue&style=plastic&logo=&logoColor=white" alt="Description of image"></a>
     <b>NOMAI : A real-time photometric classifier for superluminous supernovae identification. A science module for the Fink broker,</b> <i>E. Russeil, et al</i>
 </div>
 
