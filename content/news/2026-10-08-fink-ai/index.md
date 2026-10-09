@@ -22,7 +22,7 @@ From there, anyone can select it, run it on ZTF alerts, and retrieve the predict
 
 ## What do you need?
 
-To run existing models, only the [fink-client](https://doc.ztf.fink-broker.org/services/fink_client/) (version 12 or later). To publish your own, sign in to the [Fink MLflow](https://mlflow.fink-broker.org) with your [ORCID](https://orcid.org) or [eduGAIN](https://edugain.org) account, and ask us for access.
+To run existing models, you only need to update the [fink-client](https://doc.ztf.fink-broker.org/services/fink_client/) (version 12.3.0 or later). To publish your own, sign in to the [Fink MLflow](https://mlflow.fink-broker.org) with your [ORCID](https://orcid.org) or [eduGAIN](https://edugain.org) account, and ask us for access.
 
 ## What's next?
 
