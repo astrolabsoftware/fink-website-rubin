@@ -1,6 +1,7 @@
 ---
 date: "2026-10-08"
 title: "Deploy your own model in Fink with Fink AI"
+cardimage: fink_ai.png
 ---
 
 Register your model, and let Fink build and deploy it for you: no pull request, no waiting.
